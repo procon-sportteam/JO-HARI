@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GoogleVR/Beta/Demos/Scenes/HelloMR.unity
+    path: Assets/Scenes/BASIC.unity
     guid: abadaf21babd44e5998c8ed818bb7650
+  - enabled: 1
+    path: Assets/Scenes/SlowScene.unity
+    guid: fbcf059522a98fc4eb4e42bf06615bf2
   m_configObjects: {}

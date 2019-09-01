@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GoogleVR/Beta/Demos/Scenes/HelloMR.unity
+- path: Assets/Scenes/SLOW.unity
   isLoaded: 1
   isActive: 1

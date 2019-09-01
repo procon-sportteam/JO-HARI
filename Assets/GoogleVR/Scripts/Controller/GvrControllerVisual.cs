@@ -29,6 +29,7 @@ using UnityEngine;
 public class GvrControllerVisual
     : MonoBehaviour, IGvrArmModelReceiver, IGvrControllerInputDeviceReceiver
 {
+#pragma warning disable 0649
     /// <summary>App button animation duration when pressed.</summary>
     public const float APP_BUTTON_ACTIVE_DURATION_SECONDS = 0.111f;
 

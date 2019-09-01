@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ChangeSeeThroughMode.cs" />
+     <Compile Include="Assets\EventTriggerTest.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoObjectController6DoF.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoSeeThroughController.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerInput.cs" />
@@ -151,9 +151,6 @@
      <Compile Include="Assets\GoogleVR\Scripts\Headset\Internal\HeadsetProviders\EditorHeadsetProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Headset\Internal\HeadsetState.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Headset\Internal\IHeadsetProvider.cs" />
-     <Compile Include="Assets\GoogleVR\Scripts\InstantPreview\InstantPreviewHelper.cs" />
-     <Compile Include="Assets\GoogleVR\Scripts\InstantPreview\Internal\InstantPreview.cs" />
-     <Compile Include="Assets\GoogleVR\Scripts\InstantPreview\Internal\InstantPreviewControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Internal\EditorCameraOriginDict.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\GvrKeyboard.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\GvrKeyboardDelegateBase.cs" />
@@ -178,7 +175,12 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\Halt.cs" />
+     <Compile Include="Assets\Idle MoCap\DemoScene\idle_mocap_follow_player.cs" />
      <Compile Include="Assets\Pos_txt_Reader.cs" />
+     <Compile Include="Assets\Scenes\InstantPreview\InstantPreviewHelper.cs" />
+     <Compile Include="Assets\Scenes\InstantPreview\Internal\InstantPreview.cs" />
+     <Compile Include="Assets\Scenes\InstantPreview\Internal\InstantPreviewControllerProvider.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\AngleLimits.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Colliders\Circle3.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Colliders\SpringCapsuleCollider.cs" />
@@ -206,6 +208,7 @@
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Utility\ObjectBuilding\UnityComponentStringListBuilder.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Utility\PathUtil.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Utility\TextRecordParsing.cs" />
+     <Compile Include="Assets\ViewModeChange.cs" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\ToonColor_DoubleShadeWithFeather_StencilMask.shader" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\Tess\UCTS_ShadowCaster_Tess.cginc" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_Clipping_Tess_StencilMask.shader" />
@@ -270,6 +273,7 @@
      <None Include="Assets\GoogleVR\Beta\Shaders\GvrSeeThroughUI.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess_StencilMask.shader" />
+     <None Include="Assets\Idle MoCap\Idle Package Description.txt" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_TransClipping_Tess_StencilOut.shader" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\Tess\ToonColor_ShadingGradeMap_AngelRing_Tess.shader" />
      <None Include="Assets\UnityChanTPK\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess_Light_StencilOut.shader" />

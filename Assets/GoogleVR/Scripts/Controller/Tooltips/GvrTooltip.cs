@@ -35,6 +35,7 @@ using UnityEngine.UI;
 [HelpURL("https://developers.google.com/vr/reference/unity/class/GvrTooltip")]
 public class GvrTooltip : MonoBehaviour, IGvrArmModelReceiver
 {
+#pragma warning disable 0649
     /// <summary>
     /// Y Position for touch pad tooltips based on the standard controller visual.
     /// </summary>

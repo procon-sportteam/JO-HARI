@@ -24,6 +24,7 @@ namespace GoogleVR.Beta
     /// <summary>A beta library for multiple 6DoF controller visuals.</summary>
     public class GvrBetaControllerVisualMulti : GvrControllerVisual
     {
+#pragma warning disable 0649
         /// <summary>
         /// An array of mesh and material pairs used to dynamically change the controller visual.
         /// </summary>
