@@ -13,27 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-09-02T17:02:18.121+09:00
-  initializedAtString: 2019-09-02T16:12:10.562+09:00
+  lastUpdatedAtString: 2019-09-04T14:44:37.605+09:00
+  initializedAtString: 2019-09-04T14:42:22.776+09:00
   entries:
-  - path: Assets\Scenes\test sceans.unity
-    fullPath: C:\Users\procon\githubtest\Assets\Scenes\test sceans.unity
-    projectPath: Assets\Scenes\test sceans.unity
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\test sceans.unity.meta
-    fullPath: C:\Users\procon\githubtest\Assets\Scenes\test sceans.unity.meta
-    projectPath: Assets\Scenes\test sceans.unity.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: date.apk
-    fullPath: C:\Users\procon\githubtest\date.apk
-    projectPath: date.apk
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\assetDatabase3
     fullPath: C:\Users\procon\githubtest\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -44,17 +26,23 @@ MonoBehaviour:
     fullPath: C:\Users\procon\githubtest\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\EditorUserBuildSettings.asset
     fullPath: C:\Users\procon\githubtest\Library\EditorUserBuildSettings.asset
     projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\procon\githubtest\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\procon\githubtest\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\procon\githubtest\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,2440 +70,2266 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\22\22f8991c57b980f49b601927bbb40b48
-    fullPath: C:\Users\procon\githubtest\Library\metadata\22\22f8991c57b980f49b601927bbb40b48
-    projectPath: Library\metadata\22\22f8991c57b980f49b601927bbb40b48
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\22\22f8991c57b980f49b601927bbb40b48.info
-    fullPath: C:\Users\procon\githubtest\Library\metadata\22\22f8991c57b980f49b601927bbb40b48.info
-    projectPath: Library\metadata\22\22f8991c57b980f49b601927bbb40b48.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\globalgamemanagers
-    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Android\Data\level1
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\level1
-    projectPath: Library\PlayerDataCache\Android\Data\level1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
-    projectPath: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Android\Data\Managed\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\Managed\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\PlayerDataCache\Android\Data\Managed\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
-    projectPath: Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PlayerDataCache\Android\Data\sharedassets1.assets
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\sharedassets1.assets
-    projectPath: Library\PlayerDataCache\Android\Data\sharedassets1.assets
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
-    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
-    projectPath: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\procon\githubtest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\procon\githubtest\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\7327f1-mainStage.json
-    fullPath: C:\Users\procon\githubtest\Library\StateCache\Hierarchy\7327f1-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\7327f1-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\1358f0-mainStage.json
-    fullPath: C:\Users\procon\githubtest\Library\StateCache\SceneView\1358f0-mainStage.json
-    projectPath: Library\StateCache\SceneView\1358f0-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\procon\githubtest\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\procon\githubtest\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\ProcessJobs\b89df42499bb84ffb3fe8531d841477f.bakert
     fullPath: C:\Users\procon\githubtest\Temp\ProcessJobs\b89df42499bb84ffb3fe8531d841477f.bakert
     projectPath: Temp\ProcessJobs\b89df42499bb84ffb3fe8531d841477f.bakert
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     fullPath: C:\Users\procon\githubtest\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\aar\gvr.aar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\aar\gvr.aar
     projectPath: Temp\StagingArea\aar\gvr.aar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\aar\gvr-keyboard.aar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\aar\gvr-keyboard.aar
     projectPath: Temp\StagingArea\aar\gvr-keyboard.aar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\aar\gvr-keyboardsupport-release.aar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\aar\gvr-keyboardsupport-release.aar
     projectPath: Temp\StagingArea\aar\gvr-keyboardsupport-release.aar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\aar\gvr-permissionsupport-release.aar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\aar\gvr-permissionsupport-release.aar
     projectPath: Temp\StagingArea\aar\gvr-permissionsupport-release.aar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\aar\unitygvr.aar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\aar\unitygvr.aar
     projectPath: Temp\StagingArea\aar\unitygvr.aar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\AndroidManifest.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\AndroidManifest.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\AndroidManifest.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\jni\arm64-v8a\libgvr.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\jni\arm64-v8a\libgvr.so
     projectPath: Temp\StagingArea\android-libraries\gvr\jni\arm64-v8a\libgvr.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\jni\arm64-v8a\libgvrshim.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\jni\arm64-v8a\libgvrshim.so
     projectPath: Temp\StagingArea\android-libraries\gvr\jni\arm64-v8a\libgvrshim.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\libs\armeabi-v7a\libgvr.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\libs\armeabi-v7a\libgvr.so
     projectPath: Temp\StagingArea\android-libraries\gvr\libs\armeabi-v7a\libgvr.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\libs\armeabi-v7a\libgvrshim.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\libs\armeabi-v7a\libgvrshim.so
     projectPath: Temp\StagingArea\android-libraries\gvr\libs\armeabi-v7a\libgvrshim.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\libs\classes.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\libs\classes.jar
     projectPath: Temp\StagingArea\android-libraries\gvr\libs\classes.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\libs\x86\libgvr.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\libs\x86\libgvr.so
     projectPath: Temp\StagingArea\android-libraries\gvr\libs\x86\libgvr.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\libs\x86\libgvrshim.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\libs\x86\libgvrshim.so
     projectPath: Temp\StagingArea\android-libraries\gvr\libs\x86\libgvrshim.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\proguard.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\proguard.txt
     projectPath: Temp\StagingArea\android-libraries\gvr\proguard.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\project.properties
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\project.properties
     projectPath: Temp\StagingArea\android-libraries\gvr\project.properties
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\R.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\R.txt
     projectPath: Temp\StagingArea\android-libraries\gvr\R.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable\rippleable.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable\rippleable.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable\rippleable.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\quantum_ic_close_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\quantum_ic_close_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\quantum_ic_close_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\quantum_ic_settings_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\quantum_ic_settings_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\quantum_ic_settings_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\transition.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\transition.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-hdpi-v4\transition.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\quantum_ic_close_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\quantum_ic_close_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\quantum_ic_close_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\quantum_ic_settings_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\quantum_ic_settings_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\quantum_ic_settings_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\transition.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\transition.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-mdpi-v4\transition.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-v21\rippleable.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-v21\rippleable.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-v21\rippleable.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-xhdpi-v4\quantum_ic_close_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-xhdpi-v4\quantum_ic_close_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-xhdpi-v4\quantum_ic_close_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-xhdpi-v4\quantum_ic_settings_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-xhdpi-v4\quantum_ic_settings_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-xhdpi-v4\quantum_ic_settings_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-xxhdpi-v4\quantum_ic_close_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-xxhdpi-v4\quantum_ic_close_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-xxhdpi-v4\quantum_ic_close_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-xxhdpi-v4\quantum_ic_settings_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-xxhdpi-v4\quantum_ic_settings_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-xxhdpi-v4\quantum_ic_settings_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-xxxhdpi-v4\quantum_ic_close_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-xxxhdpi-v4\quantum_ic_close_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-xxxhdpi-v4\quantum_ic_close_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\drawable-xxxhdpi-v4\quantum_ic_settings_white_24.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\drawable-xxxhdpi-v4\quantum_ic_settings_white_24.png
     projectPath: Temp\StagingArea\android-libraries\gvr\res\drawable-xxxhdpi-v4\quantum_ic_settings_white_24.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout\back_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout\back_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout\back_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout\settings_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout\settings_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout\settings_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout\transition_view.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout\transition_view.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout\transition_view.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout\ui_layer.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout\ui_layer.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout\ui_layer.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout\ui_layer_with_portrait_support.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout\ui_layer_with_portrait_support.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout\ui_layer_with_portrait_support.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-land\back_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-land\back_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-land\back_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-land\settings_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-land\settings_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-land\settings_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-land\ui_layer_with_portrait_support.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-land\ui_layer_with_portrait_support.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-land\ui_layer_with_portrait_support.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-land-v17\back_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-land-v17\back_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-land-v17\back_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-land-v17\settings_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-land-v17\settings_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-land-v17\settings_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-v17\back_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-v17\back_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-v17\back_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-v17\settings_button.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-v17\settings_button.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\layout-ldrtl-v17\settings_button.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-ar\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-ar\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-ar\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-bg\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-bg\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-bg\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-ca\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-ca\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-ca\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-cs\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-cs\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-cs\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-da\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-da\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-da\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-de\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-de\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-de\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-el\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-el\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-el\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-en-rGB\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-en-rGB\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-en-rGB\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-es\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-es\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-es\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-es-rUS\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-es-rUS\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-es-rUS\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-fa\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-fa\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-fa\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-fi\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-fi\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-fi\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-fr\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-fr\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-fr\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-fr-rCA\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-fr-rCA\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-fr-rCA\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-hi\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-hi\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-hi\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-hr\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-hr\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-hr\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-hu\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-hu\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-hu\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-id\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-id\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-id\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-it\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-it\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-it\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-iw\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-iw\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-iw\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-ja\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-ja\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-ja\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-ko\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-ko\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-ko\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-land\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-land\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-land\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-lt\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-lt\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-lt\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-lv\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-lv\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-lv\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-nb\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-nb\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-nb\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-nl\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-nl\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-nl\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-pl\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-pl\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-pl\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-pt-rBR\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-pt-rBR\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-pt-rBR\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-pt-rPT\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-pt-rPT\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-pt-rPT\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-ro\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-ro\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-ro\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-ru\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-ru\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-ru\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-sk\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-sk\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-sk\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-sl\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-sl\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-sl\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-sr\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-sr\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-sr\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-sv\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-sv\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-sv\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-th\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-th\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-th\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-tl\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-tl\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-tl\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-tr\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-tr\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-tr\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-uk\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-uk\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-uk\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-v19\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-v19\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-v19\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-v21\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-v21\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-v21\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-vi\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-vi\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-vi\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-zh-rCN\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-zh-rCN\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-zh-rCN\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr\res\values-zh-rTW\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr\res\values-zh-rTW\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr\res\values-zh-rTW\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\AndroidManifest.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\AndroidManifest.xml
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\AndroidManifest.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\jni\arm64-v8a\libgvr_keyboard_shim_unity.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\jni\arm64-v8a\libgvr_keyboard_shim_unity.so
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\jni\arm64-v8a\libgvr_keyboard_shim_unity.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\libs\armeabi-v7a\libgvr_keyboard_shim_unity.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\libs\armeabi-v7a\libgvr_keyboard_shim_unity.so
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\libs\armeabi-v7a\libgvr_keyboard_shim_unity.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\libs\classes.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\libs\classes.jar
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\libs\classes.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\libs\x86\libgvr_keyboard_shim_unity.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\libs\x86\libgvr_keyboard_shim_unity.so
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\libs\x86\libgvr_keyboard_shim_unity.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\project.properties
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\project.properties
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\project.properties
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboard\R.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboard\R.txt
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboard\R.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\AndroidManifest.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\AndroidManifest.xml
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\AndroidManifest.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\libs\classes.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\libs\classes.jar
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\libs\classes.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\project.properties
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\project.properties
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\project.properties
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\R.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\R.txt
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\R.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\res\values\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\res\values\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr-keyboardsupport-release\res\values\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\AndroidManifest.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-permissionsupport-release\AndroidManifest.xml
     projectPath: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\AndroidManifest.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\libs\classes.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-permissionsupport-release\libs\classes.jar
     projectPath: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\libs\classes.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\project.properties
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-permissionsupport-release\project.properties
     projectPath: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\project.properties
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\R.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-permissionsupport-release\R.txt
     projectPath: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\R.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\res\values\values.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\gvr-permissionsupport-release\res\values\values.xml
     projectPath: Temp\StagingArea\android-libraries\gvr-permissionsupport-release\res\values\values.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\AndroidManifest.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\AndroidManifest.xml
     projectPath: Temp\StagingArea\android-libraries\unitygvr\AndroidManifest.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\libs\classes.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\libs\classes.jar
     projectPath: Temp\StagingArea\android-libraries\unitygvr\libs\classes.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\proguard.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\proguard.txt
     projectPath: Temp\StagingArea\android-libraries\unitygvr\proguard.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\project.properties
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\project.properties
     projectPath: Temp\StagingArea\android-libraries\unitygvr\project.properties
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\R.txt
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\R.txt
     projectPath: Temp\StagingArea\android-libraries\unitygvr\R.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\res\drawable-nodpi-v4\vr_icon_back.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\res\drawable-nodpi-v4\vr_icon_back.png
     projectPath: Temp\StagingArea\android-libraries\unitygvr\res\drawable-nodpi-v4\vr_icon_back.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\android-libraries\unitygvr\res\drawable-nodpi-v4\vr_icon_front.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\android-libraries\unitygvr\res\drawable-nodpi-v4\vr_icon_front.png
     projectPath: Temp\StagingArea\android-libraries\unitygvr\res\drawable-nodpi-v4\vr_icon_front.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\AndroidManifest.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\AndroidManifest.xml
     projectPath: Temp\StagingArea\AndroidManifest.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\AndroidManifest-main.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\AndroidManifest-main.xml
     projectPath: Temp\StagingArea\AndroidManifest-main.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets.ap_
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets.ap_
     projectPath: Temp\StagingArea\assets.ap_
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\boot.config
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\boot.config
     projectPath: Temp\StagingArea\assets\bin\Data\boot.config
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\globalgamemanagers
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\globalgamemanagers
     projectPath: Temp\StagingArea\assets\bin\Data\globalgamemanagers
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\globalgamemanagers.assets
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\globalgamemanagers.assets
     projectPath: Temp\StagingArea\assets\bin\Data\globalgamemanagers.assets
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\level0
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\level0
     projectPath: Temp\StagingArea\assets\bin\Data\level0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Google.ProtocolBuffers.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Google.ProtocolBuffers.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Google.ProtocolBuffers.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Mono.Security.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Mono.Security.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Mono.Security.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\mscorlib.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\mscorlib.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\mscorlib.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\netstandard.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\netstandard.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\netstandard.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.ComponentModel.Composition.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.ComponentModel.Composition.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.ComponentModel.Composition.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Configuration.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Configuration.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Configuration.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Core.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Core.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Core.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Data.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Data.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Data.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Diagnostics.StackTrace.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Diagnostics.StackTrace.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Diagnostics.StackTrace.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Drawing.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Drawing.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Drawing.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.EnterpriseServices.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.EnterpriseServices.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.EnterpriseServices.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Globalization.Extensions.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Globalization.Extensions.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Globalization.Extensions.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.IO.Compression.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.IO.Compression.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.IO.Compression.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.IO.Compression.FileSystem.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.IO.Compression.FileSystem.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.IO.Compression.FileSystem.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Net.Http.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Net.Http.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Net.Http.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Numerics.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Numerics.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Numerics.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Runtime.Serialization.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Runtime.Serialization.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Runtime.Serialization.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Runtime.Serialization.Xml.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Runtime.Serialization.Xml.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Runtime.Serialization.Xml.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.ServiceModel.Internals.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.ServiceModel.Internals.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.ServiceModel.Internals.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Transactions.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Transactions.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Transactions.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Xml.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Xml.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Xml.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Xml.Linq.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Xml.Linq.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Xml.Linq.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\System.Xml.XPath.XDocument.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\System.Xml.XPath.XDocument.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\System.Xml.XPath.XDocument.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.DataPrivacy.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.DataPrivacy.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.DataPrivacy.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.StandardEvents.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.StandardEvents.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.StandardEvents.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.Tracker.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.Tracker.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Unity.Analytics.Tracker.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\Unity.TextMeshPro.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Unity.TextMeshPro.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Unity.TextMeshPro.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AccessibilityModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AIModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AIModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AIModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AnimationModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ARModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ARModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ARModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AssetBundleModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.AudioModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.BaselibModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ClothModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CoreModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.CrashReportingModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.DirectorModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.FileSystemHttpModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GameCenterModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GridModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GridModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.GridModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.HotReloadModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ImageConversionModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.IMGUIModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.InputModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.InputModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.InputModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.JSONSerializeModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.LocalizationModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Networking.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Networking.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Networking.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ParticleSystemModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PerformanceReportingModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Physics2DModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.PhysicsModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ProfilerModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.ScreenCaptureModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SharedInternalsModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTracking.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpatialTrackingModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteMaskModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SpriteShapeModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StreamingModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.StyleSheetsModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.SubstanceModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextCoreModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextCoreModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextCoreModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TextRenderingModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TilemapModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Timeline.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Timeline.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.Timeline.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TimelineModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.TLSModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UI.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UI.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UI.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIElementsModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UIModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UmbraModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UNETModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityConnectModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VehiclesModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VFXModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VFXModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VFXModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VideoModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VRModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VRModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.VRModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.WindModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.WindModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.WindModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.XRModule.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.XRModule.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\UnityEngine.XRModule.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\Resources\unity_builtin_extra
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Resources\unity_builtin_extra
     projectPath: Temp\StagingArea\assets\bin\Data\Resources\unity_builtin_extra
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split0
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split0
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split1
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split1
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split10
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split10
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split10
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split11
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split11
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split11
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split12
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split12
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split12
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split13
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split13
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split13
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split14
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split14
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split14
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split15
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split15
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split15
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split16
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split16
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split16
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split17
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split17
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split17
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split18
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split18
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split18
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split19
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split19
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split19
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split2
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split2
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split20
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split20
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split20
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split21
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split21
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split21
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split22
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split22
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split22
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split23
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split23
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split23
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split24
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split24
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split24
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split25
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split25
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split25
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split26
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split26
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split26
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split27
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split27
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split27
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split28
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split28
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split28
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split29
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split29
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split29
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split3
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split3
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split30
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split30
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split30
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split31
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split31
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split31
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split32
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split32
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split32
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split33
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split33
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split33
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split34
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split34
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split34
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split35
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split35
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split35
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split4
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split4
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split5
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split5
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split6
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split6
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split7
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split7
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split8
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split8
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split9
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split9
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\assets\bin\Data\unity default resources
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\unity default
       resources
     projectPath: Temp\StagingArea\assets\bin\Data\unity default resources
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes.dex
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes.dex
     projectPath: Temp\StagingArea\bin\classes.dex
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes.jar
     projectPath: Temp\StagingArea\bin\classes.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$attr.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$attr.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$attr.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$color.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$color.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$color.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$dimen.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$dimen.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$dimen.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$drawable.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$drawable.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$drawable.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$id.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$id.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$id.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$layout.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$layout.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$layout.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$mipmap.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$mipmap.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$mipmap.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$string.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$string.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$string.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$style.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$style.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R$style.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\keyboardsupport\R.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$attr.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$attr.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$attr.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$color.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$color.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$color.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$dimen.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$dimen.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$dimen.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$drawable.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$drawable.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$drawable.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$id.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$id.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$id.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$layout.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$layout.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$layout.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$mipmap.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$mipmap.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$mipmap.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$string.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$string.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$string.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$style.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$style.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R$style.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R.class
     projectPath: Temp\StagingArea\bin\classes\com\google\gvr\permissionsupport\R.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$attr.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$attr.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$attr.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$color.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$color.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$color.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$dimen.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$dimen.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$dimen.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$drawable.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$drawable.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$drawable.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$id.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$id.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$id.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$layout.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$layout.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$layout.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$mipmap.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$mipmap.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$mipmap.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$string.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$string.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$string.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$style.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$style.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R$style.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\cardboard\R.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\cardboard\R.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$attr.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$attr.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$attr.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$color.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$color.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$color.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$dimen.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$dimen.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$dimen.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$drawable.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$drawable.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$drawable.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$id.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$id.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$id.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$layout.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$layout.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$layout.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$mipmap.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$mipmap.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$mipmap.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$string.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$string.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$string.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$style.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$style.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R$style.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\google\vr\keyboard\R.class
     projectPath: Temp\StagingArea\bin\classes\com\google\vr\keyboard\R.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$attr.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$attr.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$attr.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$color.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$color.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$color.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$dimen.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$dimen.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$dimen.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$drawable.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$drawable.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$drawable.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$id.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$id.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$id.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$layout.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$layout.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$layout.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$mipmap.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$mipmap.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$mipmap.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$string.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$string.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$string.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R$style.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R$style.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R$style.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\procon\test\R.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\procon\test\R.class
     projectPath: Temp\StagingArea\bin\classes\com\procon\test\R.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$attr.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$attr.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$attr.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$color.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$color.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$color.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$dimen.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$dimen.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$dimen.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$drawable.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$drawable.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$drawable.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$id.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$id.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$id.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$layout.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$layout.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$layout.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$mipmap.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$mipmap.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$mipmap.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$string.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$string.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$string.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$style.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$style.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R$style.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R.class
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R.class
     projectPath: Temp\StagingArea\bin\classes\com\unity3d\unitygvr\R.class
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\bin\resources.ap_
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\bin\resources.ap_
     projectPath: Temp\StagingArea\bin\resources.ap_
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\gen\com\google\gvr\keyboardsupport\R.java
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\gen\com\google\gvr\keyboardsupport\R.java
     projectPath: Temp\StagingArea\gen\com\google\gvr\keyboardsupport\R.java
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\gen\com\google\gvr\permissionsupport\R.java
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\gen\com\google\gvr\permissionsupport\R.java
     projectPath: Temp\StagingArea\gen\com\google\gvr\permissionsupport\R.java
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\gen\com\google\vr\cardboard\R.java
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\gen\com\google\vr\cardboard\R.java
     projectPath: Temp\StagingArea\gen\com\google\vr\cardboard\R.java
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\gen\com\google\vr\keyboard\R.java
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\gen\com\google\vr\keyboard\R.java
     projectPath: Temp\StagingArea\gen\com\google\vr\keyboard\R.java
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\gen\com\procon\test\R.java
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\gen\com\procon\test\R.java
     projectPath: Temp\StagingArea\gen\com\procon\test\R.java
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\gen\com\unity3d\unitygvr\R.java
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\gen\com\unity3d\unitygvr\R.java
     projectPath: Temp\StagingArea\gen\com\unity3d\unitygvr\R.java
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\armeabi-v7a\libmain.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\armeabi-v7a\libmain.so
     projectPath: Temp\StagingArea\libs\armeabi-v7a\libmain.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\armeabi-v7a\libmonobdwgc-2.0.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\armeabi-v7a\libmonobdwgc-2.0.so
     projectPath: Temp\StagingArea\libs\armeabi-v7a\libmonobdwgc-2.0.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\armeabi-v7a\libMonoPosixHelper.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\armeabi-v7a\libMonoPosixHelper.so
     projectPath: Temp\StagingArea\libs\armeabi-v7a\libMonoPosixHelper.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\armeabi-v7a\libunity.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\armeabi-v7a\libunity.so
     projectPath: Temp\StagingArea\libs\armeabi-v7a\libunity.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\x86\libmain.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\x86\libmain.so
     projectPath: Temp\StagingArea\libs\x86\libmain.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\x86\libmonobdwgc-2.0.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\x86\libmonobdwgc-2.0.so
     projectPath: Temp\StagingArea\libs\x86\libmonobdwgc-2.0.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\x86\libMonoPosixHelper.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\x86\libMonoPosixHelper.so
     projectPath: Temp\StagingArea\libs\x86\libMonoPosixHelper.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\libs\x86\libunity.so
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\libs\x86\libunity.so
     projectPath: Temp\StagingArea\libs\x86\libunity.so
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\plugins\libprotobuf-java-nano.jar
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\plugins\libprotobuf-java-nano.jar
     projectPath: Temp\StagingArea\plugins\libprotobuf-java-nano.jar
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\drawable-xhdpi\app_banner.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\drawable-xhdpi\app_banner.png
     projectPath: Temp\StagingArea\res\drawable-xhdpi\app_banner.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\mipmap-anydpi-v26\app_icon.xml
     projectPath: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon_round.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\mipmap-anydpi-v26\app_icon_round.xml
     projectPath: Temp\StagingArea\res\mipmap-anydpi-v26\app_icon_round.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\mipmap-mdpi\app_icon.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\mipmap-mdpi\app_icon.png
     projectPath: Temp\StagingArea\res\mipmap-mdpi\app_icon.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_background.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\mipmap-mdpi\ic_launcher_background.png
     projectPath: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_background.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_foreground.png
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\mipmap-mdpi\ic_launcher_foreground.png
     projectPath: Temp\StagingArea\res\mipmap-mdpi\ic_launcher_foreground.png
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\values\strings.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\values\strings.xml
     projectPath: Temp\StagingArea\res\values\strings.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\values\styles.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\values\styles.xml
     projectPath: Temp\StagingArea\res\values\styles.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\StagingArea\res\values-v21\styles.xml
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\res\values-v21\styles.xml
     projectPath: Temp\StagingArea\res\values-v21\styles.xml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityLockfile
     fullPath: C:\Users\procon\githubtest\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\UnityTempFile-0032cd8341d7e09408d6c1a6ae6ef266
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0032cd8341d7e09408d6c1a6ae6ef266
     projectPath: Temp\UnityTempFile-0032cd8341d7e09408d6c1a6ae6ef266
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-04c33be4a70df2c40b100abc6c10ee3e
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-04c33be4a70df2c40b100abc6c10ee3e
     projectPath: Temp\UnityTempFile-04c33be4a70df2c40b100abc6c10ee3e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-20b891cd26e31514a9788179c707f632
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-20b891cd26e31514a9788179c707f632
     projectPath: Temp\UnityTempFile-20b891cd26e31514a9788179c707f632
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-258ae7214d89be24fa3827ffb18a57fe
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-258ae7214d89be24fa3827ffb18a57fe
     projectPath: Temp\UnityTempFile-258ae7214d89be24fa3827ffb18a57fe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-272559598da98604c9fe2b52461399ae
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-272559598da98604c9fe2b52461399ae
     projectPath: Temp\UnityTempFile-272559598da98604c9fe2b52461399ae
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-343f83b4e0482374980f20c9dd4ce985
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-343f83b4e0482374980f20c9dd4ce985
     projectPath: Temp\UnityTempFile-343f83b4e0482374980f20c9dd4ce985
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-381a5c02bed50d54ea369f002204a3a1
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-381a5c02bed50d54ea369f002204a3a1
     projectPath: Temp\UnityTempFile-381a5c02bed50d54ea369f002204a3a1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-3c0fb6843e4b227458e06ee85b48c0c4
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-3c0fb6843e4b227458e06ee85b48c0c4
     projectPath: Temp\UnityTempFile-3c0fb6843e4b227458e06ee85b48c0c4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-44723c116fa0a844ab828abb640f1947
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-44723c116fa0a844ab828abb640f1947
     projectPath: Temp\UnityTempFile-44723c116fa0a844ab828abb640f1947
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-4da7266289bd3fc42b87f05081acdc65
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4da7266289bd3fc42b87f05081acdc65
     projectPath: Temp\UnityTempFile-4da7266289bd3fc42b87f05081acdc65
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-5092eca0ab493894686f5eb777d7b76d
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5092eca0ab493894686f5eb777d7b76d
     projectPath: Temp\UnityTempFile-5092eca0ab493894686f5eb777d7b76d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-522b151e2e678264e8b43a132d46b5d3
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-522b151e2e678264e8b43a132d46b5d3
     projectPath: Temp\UnityTempFile-522b151e2e678264e8b43a132d46b5d3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-5452ed86df818fe4cb8e76ee5449a236
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5452ed86df818fe4cb8e76ee5449a236
     projectPath: Temp\UnityTempFile-5452ed86df818fe4cb8e76ee5449a236
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-55cf76b9f46fa8144892b3c805702a54
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-55cf76b9f46fa8144892b3c805702a54
     projectPath: Temp\UnityTempFile-55cf76b9f46fa8144892b3c805702a54
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-5bfbb1508b0ca434eb04f044a39ec8a3
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5bfbb1508b0ca434eb04f044a39ec8a3
     projectPath: Temp\UnityTempFile-5bfbb1508b0ca434eb04f044a39ec8a3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-5d31a9dcb7d0ecb48ae91be188f2a2c4
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5d31a9dcb7d0ecb48ae91be188f2a2c4
     projectPath: Temp\UnityTempFile-5d31a9dcb7d0ecb48ae91be188f2a2c4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-5ef16b2c84899cc488f359f22c59b413
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5ef16b2c84899cc488f359f22c59b413
     projectPath: Temp\UnityTempFile-5ef16b2c84899cc488f359f22c59b413
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-6a47c97e693c01a46af7d7cb39e90255
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6a47c97e693c01a46af7d7cb39e90255
     projectPath: Temp\UnityTempFile-6a47c97e693c01a46af7d7cb39e90255
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-6cef8c7ef7e438f4998b9a9a832f2898
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6cef8c7ef7e438f4998b9a9a832f2898
     projectPath: Temp\UnityTempFile-6cef8c7ef7e438f4998b9a9a832f2898
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-700023e0a83cd6146b0ddcf7c805f05d
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-700023e0a83cd6146b0ddcf7c805f05d
     projectPath: Temp\UnityTempFile-700023e0a83cd6146b0ddcf7c805f05d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-76426b2fc64a77d479b7a5103c417a5d
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-76426b2fc64a77d479b7a5103c417a5d
     projectPath: Temp\UnityTempFile-76426b2fc64a77d479b7a5103c417a5d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-771073e1cae877a4aa7a233039fdb800
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-771073e1cae877a4aa7a233039fdb800
     projectPath: Temp\UnityTempFile-771073e1cae877a4aa7a233039fdb800
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-7bdc7ca2d8c833e40b097f9a1f7c8faf
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7bdc7ca2d8c833e40b097f9a1f7c8faf
     projectPath: Temp\UnityTempFile-7bdc7ca2d8c833e40b097f9a1f7c8faf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-86968243dbd3442459163694f6e8c683
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-86968243dbd3442459163694f6e8c683
     projectPath: Temp\UnityTempFile-86968243dbd3442459163694f6e8c683
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-93404a5989f91894b892099da367a17f
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-93404a5989f91894b892099da367a17f
     projectPath: Temp\UnityTempFile-93404a5989f91894b892099da367a17f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-a12b86d57d36f704faf5817f7a1f7a2c
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a12b86d57d36f704faf5817f7a1f7a2c
     projectPath: Temp\UnityTempFile-a12b86d57d36f704faf5817f7a1f7a2c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-a703d6d411fd2354ab2f8de6d9e8d417
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a703d6d411fd2354ab2f8de6d9e8d417
     projectPath: Temp\UnityTempFile-a703d6d411fd2354ab2f8de6d9e8d417
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-a84f5251849287a41a6bc0553fb2f951
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a84f5251849287a41a6bc0553fb2f951
     projectPath: Temp\UnityTempFile-a84f5251849287a41a6bc0553fb2f951
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-aed624de5ed250e47b0fe5fcfef555c2
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-aed624de5ed250e47b0fe5fcfef555c2
     projectPath: Temp\UnityTempFile-aed624de5ed250e47b0fe5fcfef555c2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-b3d3bce6887c901419b76f0c0ac7556d
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b3d3bce6887c901419b76f0c0ac7556d
     projectPath: Temp\UnityTempFile-b3d3bce6887c901419b76f0c0ac7556d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-b70037f4982a51d4c99ff3255b162975
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b70037f4982a51d4c99ff3255b162975
     projectPath: Temp\UnityTempFile-b70037f4982a51d4c99ff3255b162975
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-c90a40b21bc35c7409ff6ed1115486c3
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c90a40b21bc35c7409ff6ed1115486c3
     projectPath: Temp\UnityTempFile-c90a40b21bc35c7409ff6ed1115486c3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-c93a713686b602a4984aab5bdadeed9a
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c93a713686b602a4984aab5bdadeed9a
     projectPath: Temp\UnityTempFile-c93a713686b602a4984aab5bdadeed9a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-e30103294ed72e5479bc42a00f7e10b1
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e30103294ed72e5479bc42a00f7e10b1
     projectPath: Temp\UnityTempFile-e30103294ed72e5479bc42a00f7e10b1
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-eddf393d9acd2b84daa72debf7811a42
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-eddf393d9acd2b84daa72debf7811a42
     projectPath: Temp\UnityTempFile-eddf393d9acd2b84daa72debf7811a42
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-f6e7a28c68db6ef4f82a08df8df33158
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f6e7a28c68db6ef4f82a08df8df33158
     projectPath: Temp\UnityTempFile-f6e7a28c68db6ef4f82a08df8df33158
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-f714babc369163c438751639ce533bf7
     fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f714babc369163c438751639ce533bf7
     projectPath: Temp\UnityTempFile-f714babc369163c438751639ce533bf7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5

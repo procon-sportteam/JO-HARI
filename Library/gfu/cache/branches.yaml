@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-08-23T14:59:02.359+09:00
-  initializedAtString: 2019-08-23T14:59:01.216+09:00
+  lastUpdatedAtString: 2019-09-04T14:42:23.283+09:00
+  initializedAtString: 2019-09-04T14:42:23.262+09:00
   localBranches:
   - name: master
     tracking: 
   remoteBranches: []
   remotes:
   - name: origin
-    url: https://github.com/procon-sportteam/JO-HARI
+    url: https://procon-lab.backlog.com/git/JOHARI/JO-HARI.git
     login: 
     user: 
     host: 
@@ -45,4 +45,4 @@ MonoBehaviour:
     - origin
     values:
     - name: origin
-      url: https://github.com/procon-sportteam/JO-HARI
+      url: https://procon-lab.backlog.com/git/JOHARI/JO-HARI.git
