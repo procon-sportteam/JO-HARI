@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SLOW.unity
+- path: Assets/Scenes/CHARAandPOS.unity
   isLoaded: 1
   isActive: 1

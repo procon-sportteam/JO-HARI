@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/CHARAandPOS.unity
+    guid: cfe60fa5d393e53449718cdca2a452d7
+  - enabled: 1
     path: Assets/Scenes/BASIC.unity
     guid: abadaf21babd44e5998c8ed818bb7650
   - enabled: 1
-    path: Assets/Scenes/test sceans.unity
-    guid: 22f8991c57b980f49b601927bbb40b48
+    path: Assets/Scenes/SLOW.unity
+    guid: 55dcaf88a3218834eaa75984b512249b
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3449a5b5be06895429893cdf67cbeb03
   m_configObjects: {}

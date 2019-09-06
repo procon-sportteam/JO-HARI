@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\EventTriggerTest.cs" />
+     <Compile Include="Assets\blueMODEL.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoObjectController6DoF.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Demos\Scripts\DemoSeeThroughController.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerInput.cs" />
@@ -177,10 +177,14 @@
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
      <Compile Include="Assets\Halt.cs" />
      <Compile Include="Assets\Idle MoCap\DemoScene\idle_mocap_follow_player.cs" />
+     <Compile Include="Assets\omo.cs" />
      <Compile Include="Assets\Pos_txt_Reader.cs" />
+     <Compile Include="Assets\redMODEL.cs" />
      <Compile Include="Assets\Scenes\InstantPreview\InstantPreviewHelper.cs" />
      <Compile Include="Assets\Scenes\InstantPreview\Internal\InstantPreview.cs" />
      <Compile Include="Assets\Scenes\InstantPreview\Internal\InstantPreviewControllerProvider.cs" />
+     <Compile Include="Assets\SLOWmode.cs" />
+     <Compile Include="Assets\slowscene.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\AngleLimits.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Colliders\Circle3.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Colliders\SpringCapsuleCollider.cs" />
