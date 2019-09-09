@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-09-07T16:13:12.492+09:00
-  initializedAtString: 2019-09-07T14:02:05.199+09:00
+  lastUpdatedAtString: 2019-09-09T14:31:26.921+09:00
+  initializedAtString: 2019-09-08T14:53:27.398+09:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: C:\Users\procon\githubtest\Assembly-CSharp.csproj
@@ -22,30 +22,78 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\blueMODEL.cs
+    fullPath: C:\Users\procon\githubtest\Assets\blueMODEL.cs
+    projectPath: Assets\blueMODEL.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\blueMODEL.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\blueMODEL.cs.meta
+    projectPath: Assets\blueMODEL.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\choosend.cs
     fullPath: C:\Users\procon\githubtest\Assets\choosend.cs
     projectPath: Assets\choosend.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\choosend.cs.meta
     fullPath: C:\Users\procon\githubtest\Assets\choosend.cs.meta
     projectPath: Assets\choosend.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Idle MoCap\anzai-2&bone.fbx
-    fullPath: C:\Users\procon\githubtest\Assets\Idle MoCap\anzai-2&bone.fbx
-    projectPath: Assets\Idle MoCap\anzai-2&bone.fbx
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Halt.cs
+    fullPath: C:\Users\procon\githubtest\Assets\Halt.cs
+    projectPath: Assets\Halt.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Idle MoCap\anzai-2&bone.fbx.meta
-    fullPath: C:\Users\procon\githubtest\Assets\Idle MoCap\anzai-2&bone.fbx.meta
-    projectPath: Assets\Idle MoCap\anzai-2&bone.fbx.meta
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Halt.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\Halt.cs.meta
+    projectPath: Assets\Halt.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\omo.cs
+    fullPath: C:\Users\procon\githubtest\Assets\omo.cs
+    projectPath: Assets\omo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\omo.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\omo.cs.meta
+    projectPath: Assets\omo.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Pos_txt_Reader.cs
+    fullPath: C:\Users\procon\githubtest\Assets\Pos_txt_Reader.cs
+    projectPath: Assets\Pos_txt_Reader.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Pos_txt_Reader.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\Pos_txt_Reader.cs.meta
+    projectPath: Assets\Pos_txt_Reader.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\redMODEL.cs
+    fullPath: C:\Users\procon\githubtest\Assets\redMODEL.cs
+    projectPath: Assets\redMODEL.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\redMODEL.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\redMODEL.cs.meta
+    projectPath: Assets\redMODEL.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scenes\BASIC.unity
     fullPath: C:\Users\procon\githubtest\Assets\Scenes\BASIC.unity
     projectPath: Assets\Scenes\BASIC.unity
@@ -58,12 +106,222 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scenes\modeltest.unity
+    fullPath: C:\Users\procon\githubtest\Assets\Scenes\modeltest.unity
+    projectPath: Assets\Scenes\modeltest.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\modeltest.unity.meta
+    fullPath: C:\Users\procon\githubtest\Assets\Scenes\modeltest.unity.meta
+    projectPath: Assets\Scenes\modeltest.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SLOW.unity
+    fullPath: C:\Users\procon\githubtest\Assets\Scenes\SLOW.unity
+    projectPath: Assets\Scenes\SLOW.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\Trajectory.unity
     fullPath: C:\Users\procon\githubtest\Assets\Scenes\Trajectory.unity
     projectPath: Assets\Scenes\Trajectory.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Sclipt.meta
+    fullPath: C:\Users\procon\githubtest\Assets\Sclipt.meta
+    projectPath: Assets\Sclipt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sclipt\Pos_txt_Reader.cs
+    fullPath: C:\Users\procon\githubtest\Assets\Sclipt\Pos_txt_Reader.cs
+    projectPath: Assets\Sclipt\Pos_txt_Reader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sclipt\Pos_txt_Reader.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\Sclipt\Pos_txt_Reader.cs.meta
+    projectPath: Assets\Sclipt\Pos_txt_Reader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3.meta"
+    projectPath: "Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3\\slowscene.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3\\slowscene.cs"
+    projectPath: "Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3\\slowscene.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3\\slowscene.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3\\slowscene.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u30B9\u30ED\u30FC\u30B7\u30FC\u30F3\\slowscene.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E.meta"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\blueMODEL.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\blueMODEL.cs"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\blueMODEL.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\blueMODEL.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\blueMODEL.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\blueMODEL.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\choosend.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\choosend.cs"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\choosend.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\choosend.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\choosend.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\choosend.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\omo.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\omo.cs"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\omo.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\omo.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\omo.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\omo.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\redMODEL.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\redMODEL.cs"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\redMODEL.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\redMODEL.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\redMODEL.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u30E2\u30C7\u30EB\u9078\u629E\\redMODEL.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3.meta"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\Halt.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\Halt.cs"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\Halt.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\Halt.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\Halt.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\Halt.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\SLOWmode.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\SLOWmode.cs"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\SLOWmode.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\SLOWmode.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\SLOWmode.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\SLOWmode.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\ViewModeChange.cs"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\ViewModeChange.cs"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\ViewModeChange.cs"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\ViewModeChange.cs.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\ViewModeChange.cs.meta"
+    projectPath: "Assets\\Sclipt\\\u6A5F\u80FD\u30DC\u30BF\u30F3\\ViewModeChange.cs.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u8907\u6570\u30B7\u30FC\u30F3.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u8907\u6570\u30B7\u30FC\u30F3.meta"
+    projectPath: "Assets\\Sclipt\\\u8907\u6570\u30B7\u30FC\u30F3.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Sclipt\\\u8ECC\u8DE1\u30B7\u30FC\u30F3.meta"
+    fullPath: "C:\\Users\\procon\\githubtest\\Assets\\Sclipt\\\u8ECC\u8DE1\u30B7\u30FC\u30F3.meta"
+    projectPath: "Assets\\Sclipt\\\u8ECC\u8DE1\u30B7\u30FC\u30F3.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SLOWmode.cs
+    fullPath: C:\Users\procon\githubtest\Assets\SLOWmode.cs
+    projectPath: Assets\SLOWmode.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SLOWmode.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\SLOWmode.cs.meta
+    projectPath: Assets\SLOWmode.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\slowscene.cs
+    fullPath: C:\Users\procon\githubtest\Assets\slowscene.cs
+    projectPath: Assets\slowscene.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\slowscene.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\slowscene.cs.meta
+    projectPath: Assets\slowscene.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\untitled.fbx
+    fullPath: C:\Users\procon\githubtest\Assets\untitled.fbx
+    projectPath: Assets\untitled.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\untitled.fbx.meta
+    fullPath: C:\Users\procon\githubtest\Assets\untitled.fbx.meta
+    projectPath: Assets\untitled.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ViewModeChange.cs
+    fullPath: C:\Users\procon\githubtest\Assets\ViewModeChange.cs
+    projectPath: Assets\ViewModeChange.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\ViewModeChange.cs.meta
+    fullPath: C:\Users\procon\githubtest\Assets\ViewModeChange.cs.meta
+    projectPath: Assets\ViewModeChange.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: date.apk
     fullPath: C:\Users\procon\githubtest\date.apk
     projectPath: date.apk
@@ -88,6 +346,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: C:\Users\procon\githubtest\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\procon\githubtest\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -124,21 +388,153 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\procon\githubtest\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7e\7e7f9305f017dee4e8d3c1d84e243a93
-    fullPath: C:\Users\procon\githubtest\Library\metadata\7e\7e7f9305f017dee4e8d3c1d84e243a93
-    projectPath: Library\metadata\7e\7e7f9305f017dee4e8d3c1d84e243a93
+  - path: Library\metadata\30\3046d38be4a08134681658796f73cf92
+    fullPath: C:\Users\procon\githubtest\Library\metadata\30\3046d38be4a08134681658796f73cf92
+    projectPath: Library\metadata\30\3046d38be4a08134681658796f73cf92
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\7e\7e7f9305f017dee4e8d3c1d84e243a93.info
-    fullPath: C:\Users\procon\githubtest\Library\metadata\7e\7e7f9305f017dee4e8d3c1d84e243a93.info
-    projectPath: Library\metadata\7e\7e7f9305f017dee4e8d3c1d84e243a93.info
+  - path: Library\metadata\30\3046d38be4a08134681658796f73cf92.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\30\3046d38be4a08134681658796f73cf92.info
+    projectPath: Library\metadata\30\3046d38be4a08134681658796f73cf92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3a\3a328a7255c93634b8e15f0a79b484aa
+    fullPath: C:\Users\procon\githubtest\Library\metadata\3a\3a328a7255c93634b8e15f0a79b484aa
+    projectPath: Library\metadata\3a\3a328a7255c93634b8e15f0a79b484aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3a\3a328a7255c93634b8e15f0a79b484aa.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\3a\3a328a7255c93634b8e15f0a79b484aa.info
+    projectPath: Library\metadata\3a\3a328a7255c93634b8e15f0a79b484aa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\46\4691abb352da99242b0036dd8e18a58a
+    fullPath: C:\Users\procon\githubtest\Library\metadata\46\4691abb352da99242b0036dd8e18a58a
+    projectPath: Library\metadata\46\4691abb352da99242b0036dd8e18a58a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\62\620158d22cd986041968a3bbe8252e7e
+    fullPath: C:\Users\procon\githubtest\Library\metadata\62\620158d22cd986041968a3bbe8252e7e
+    projectPath: Library\metadata\62\620158d22cd986041968a3bbe8252e7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6f\6f52c689578e94045b1f048e46d12da2
+    fullPath: C:\Users\procon\githubtest\Library\metadata\6f\6f52c689578e94045b1f048e46d12da2
+    projectPath: Library\metadata\6f\6f52c689578e94045b1f048e46d12da2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6f\6f52c689578e94045b1f048e46d12da2.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\6f\6f52c689578e94045b1f048e46d12da2.info
+    projectPath: Library\metadata\6f\6f52c689578e94045b1f048e46d12da2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\7b\7bb42e6be5c98e14ab4f0ff4fc17e9d2
+    fullPath: C:\Users\procon\githubtest\Library\metadata\7b\7bb42e6be5c98e14ab4f0ff4fc17e9d2
+    projectPath: Library\metadata\7b\7bb42e6be5c98e14ab4f0ff4fc17e9d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7b\7bb42e6be5c98e14ab4f0ff4fc17e9d2.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\7b\7bb42e6be5c98e14ab4f0ff4fc17e9d2.info
+    projectPath: Library\metadata\7b\7bb42e6be5c98e14ab4f0ff4fc17e9d2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\88\88227816dee0a7b49924bc76ef29874f
+    fullPath: C:\Users\procon\githubtest\Library\metadata\88\88227816dee0a7b49924bc76ef29874f
+    projectPath: Library\metadata\88\88227816dee0a7b49924bc76ef29874f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a0\a0a9123ce2ea51e4c8399a2babc1fbc7
+    fullPath: C:\Users\procon\githubtest\Library\metadata\a0\a0a9123ce2ea51e4c8399a2babc1fbc7
+    projectPath: Library\metadata\a0\a0a9123ce2ea51e4c8399a2babc1fbc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a0\a0a9123ce2ea51e4c8399a2babc1fbc7.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\a0\a0a9123ce2ea51e4c8399a2babc1fbc7.info
+    projectPath: Library\metadata\a0\a0a9123ce2ea51e4c8399a2babc1fbc7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a8\a86ca7e91932e8e42939fc19c8c25db8
+    fullPath: C:\Users\procon\githubtest\Library\metadata\a8\a86ca7e91932e8e42939fc19c8c25db8
+    projectPath: Library\metadata\a8\a86ca7e91932e8e42939fc19c8c25db8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\af\afc58cf01a1fe944ca38b3e61cf4d59b
+    fullPath: C:\Users\procon\githubtest\Library\metadata\af\afc58cf01a1fe944ca38b3e61cf4d59b
+    projectPath: Library\metadata\af\afc58cf01a1fe944ca38b3e61cf4d59b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\af\afc58cf01a1fe944ca38b3e61cf4d59b.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\af\afc58cf01a1fe944ca38b3e61cf4d59b.info
+    projectPath: Library\metadata\af\afc58cf01a1fe944ca38b3e61cf4d59b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c06b68daeca6cd848bea80fb9cf6be7b
+    fullPath: C:\Users\procon\githubtest\Library\metadata\c0\c06b68daeca6cd848bea80fb9cf6be7b
+    projectPath: Library\metadata\c0\c06b68daeca6cd848bea80fb9cf6be7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\c0\c06b68daeca6cd848bea80fb9cf6be7b.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\c0\c06b68daeca6cd848bea80fb9cf6be7b.info
+    projectPath: Library\metadata\c0\c06b68daeca6cd848bea80fb9cf6be7b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d4\d4229bf099c24ac489864c3325d96e6a
+    fullPath: C:\Users\procon\githubtest\Library\metadata\d4\d4229bf099c24ac489864c3325d96e6a
+    projectPath: Library\metadata\d4\d4229bf099c24ac489864c3325d96e6a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\d8\d8c2e637760fe0f4e8645ee876e099d5
+    fullPath: C:\Users\procon\githubtest\Library\metadata\d8\d8c2e637760fe0f4e8645ee876e099d5
+    projectPath: Library\metadata\d8\d8c2e637760fe0f4e8645ee876e099d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\d8\d8c2e637760fe0f4e8645ee876e099d5.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\d8\d8c2e637760fe0f4e8645ee876e099d5.info
+    projectPath: Library\metadata\d8\d8c2e637760fe0f4e8645ee876e099d5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e2\e23001796a67df84d8a2ac16a8ac8f46
+    fullPath: C:\Users\procon\githubtest\Library\metadata\e2\e23001796a67df84d8a2ac16a8ac8f46
+    projectPath: Library\metadata\e2\e23001796a67df84d8a2ac16a8ac8f46
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e6\e631edeab5e96084eb9edc632e109cb2
+    fullPath: C:\Users\procon\githubtest\Library\metadata\e6\e631edeab5e96084eb9edc632e109cb2
+    projectPath: Library\metadata\e6\e631edeab5e96084eb9edc632e109cb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\e9\e90518afb3b470546beeccf997786978
+    fullPath: C:\Users\procon\githubtest\Library\metadata\e9\e90518afb3b470546beeccf997786978
+    projectPath: Library\metadata\e9\e90518afb3b470546beeccf997786978
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e9\e90518afb3b470546beeccf997786978.info
+    fullPath: C:\Users\procon\githubtest\Library\metadata\e9\e90518afb3b470546beeccf997786978.info
+    projectPath: Library\metadata\e9\e90518afb3b470546beeccf997786978.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -146,14 +542,14 @@ MonoBehaviour:
     fullPath: C:\Users\procon\githubtest\Library\metadata\f9\f98ff52d47aadca4aafe4110bcf92df2
     projectPath: Library\metadata\f9\f98ff52d47aadca4aafe4110bcf92df2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f9\f98ff52d47aadca4aafe4110bcf92df2.info
-    fullPath: C:\Users\procon\githubtest\Library\metadata\f9\f98ff52d47aadca4aafe4110bcf92df2.info
-    projectPath: Library\metadata\f9\f98ff52d47aadca4aafe4110bcf92df2.info
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\fc\fced54a9b564bde468a56b7eb7151437
+    fullPath: C:\Users\procon\githubtest\Library\metadata\fc\fced54a9b564bde468a56b7eb7151437
+    projectPath: Library\metadata\fc\fced54a9b564bde468a56b7eb7151437
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\PlayerDataCache\Android\Data\globalgamemanagers
     fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\globalgamemanagers
     projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers
@@ -177,13 +573,19 @@ MonoBehaviour:
     projectPath: Library\PlayerDataCache\Android\Data\level1
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\PlayerDataCache\Android\Data\level2
     fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\level2
     projectPath: Library\PlayerDataCache\Android\Data\level2
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Library\PlayerDataCache\Android\Data\level3
+    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\level3
+    projectPath: Library\PlayerDataCache\Android\Data\level3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
     fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
     projectPath: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
@@ -213,13 +615,19 @@ MonoBehaviour:
     projectPath: Library\PlayerDataCache\Android\Data\sharedassets1.assets
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\PlayerDataCache\Android\Data\sharedassets2.assets
     fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\sharedassets2.assets
     projectPath: Library\PlayerDataCache\Android\Data\sharedassets2.assets
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Library\PlayerDataCache\Android\Data\sharedassets3.assets
+    fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\Data\sharedassets3.assets
+    projectPath: Library\PlayerDataCache\Android\Data\sharedassets3.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
     fullPath: C:\Users\procon\githubtest\Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
     projectPath: Library\PlayerDataCache\Android\ScriptLayoutHashes.txt
@@ -328,15 +736,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\7327f1-aaf96304138cd1e468.json
+    fullPath: C:\Users\procon\githubtest\Library\StateCache\Hierarchy\7327f1-aaf96304138cd1e468.json
+    projectPath: Library\StateCache\Hierarchy\7327f1-aaf96304138cd1e468.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\7327f1-mainStage.json
+    fullPath: C:\Users\procon\githubtest\Library\StateCache\Hierarchy\7327f1-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\7327f1-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\1358f0-aaf96304138cd1e468.json
+    fullPath: C:\Users\procon\githubtest\Library\StateCache\SceneView\1358f0-aaf96304138cd1e468.json
+    projectPath: Library\StateCache\SceneView\1358f0-aaf96304138cd1e468.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\StateCache\SceneView\1358f0-mainStage.json
     fullPath: C:\Users\procon\githubtest\Library\StateCache\SceneView\1358f0-mainStage.json
     projectPath: Library\StateCache\SceneView\1358f0-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\procon\githubtest\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\procon\githubtest\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\40bec655e68276cd62f912b37b985213.bakert
+    fullPath: C:\Users\procon\githubtest\Temp\ProcessJobs\40bec655e68276cd62f912b37b985213.bakert
+    projectPath: Temp\ProcessJobs\40bec655e68276cd62f912b37b985213.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1066,24 +1504,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\level1
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\level1
-    projectPath: Temp\StagingArea\assets\bin\Data\level1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\level2
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\level2
-    projectPath: Temp\StagingArea\assets\bin\Data\level2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\level3
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\level3
-    projectPath: Temp\StagingArea\assets\bin\Data\level3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
     projectPath: Temp\StagingArea\assets\bin\Data\Managed\Assembly-CSharp.dll
@@ -1654,6 +2074,30 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split10
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split10
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split11
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split11
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split12
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split12
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split13
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split13
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split2
     fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split2
     projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split2
@@ -1678,201 +2122,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split0
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split0
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split0
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split6
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split6
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split1
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split1
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split1
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split7
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split7
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split10
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split10
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split10
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split8
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split8
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split11
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split11
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split11
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split12
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split12
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split12
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split13
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split13
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split13
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split14
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split14
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split14
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split15
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split15
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split15
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split16
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split16
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split16
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split17
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split17
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split17
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split18
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split18
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split18
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split19
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split19
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split19
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split2
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split2
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split20
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split20
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split20
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split21
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split21
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split21
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split22
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split22
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split22
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split23
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split23
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split23
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split24
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split24
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split24
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split25
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split25
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split25
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split26
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split26
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split26
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split27
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split27
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split27
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split28
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split28
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split28
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split29
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split29
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split3
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split3
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split30
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split30
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split30
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split4
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split4
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split5
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split5
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split6
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split6
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split7
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split7
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split8
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split8
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split9
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split9
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets1.assets.split9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets2.assets
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets2.assets
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets2.assets
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\StagingArea\assets\bin\Data\sharedassets3.assets
-    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets3.assets
-    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets3.assets
+  - path: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split9
+    fullPath: C:\Users\procon\githubtest\Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split9
+    projectPath: Temp\StagingArea\assets\bin\Data\sharedassets0.assets.split9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -2411,597 +2681,825 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-01f6a733a8662df43834c053a6554d28
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-01f6a733a8662df43834c053a6554d28
-    projectPath: Temp\UnityTempFile-01f6a733a8662df43834c053a6554d28
+  - path: Temp\UnityTempFile-012263e8449fc3441a0781164195cdd3
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-012263e8449fc3441a0781164195cdd3
+    projectPath: Temp\UnityTempFile-012263e8449fc3441a0781164195cdd3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-03512ec94f37391408110ed91546099e
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-03512ec94f37391408110ed91546099e
-    projectPath: Temp\UnityTempFile-03512ec94f37391408110ed91546099e
+  - path: Temp\UnityTempFile-01c73d3d659e2234c9ea2d7dbefe69a1
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-01c73d3d659e2234c9ea2d7dbefe69a1
+    projectPath: Temp\UnityTempFile-01c73d3d659e2234c9ea2d7dbefe69a1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0456fdc2bd52f3c4398d70f7af68cf49
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0456fdc2bd52f3c4398d70f7af68cf49
-    projectPath: Temp\UnityTempFile-0456fdc2bd52f3c4398d70f7af68cf49
+  - path: Temp\UnityTempFile-04655b2bc5a74fe45b69e9f7740c7858
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-04655b2bc5a74fe45b69e9f7740c7858
+    projectPath: Temp\UnityTempFile-04655b2bc5a74fe45b69e9f7740c7858
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-068a2356a68c81e47a9a5aa4a306ee88
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-068a2356a68c81e47a9a5aa4a306ee88
-    projectPath: Temp\UnityTempFile-068a2356a68c81e47a9a5aa4a306ee88
+  - path: Temp\UnityTempFile-052f9fad0d8dac2408278a47a5d0c737
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-052f9fad0d8dac2408278a47a5d0c737
+    projectPath: Temp\UnityTempFile-052f9fad0d8dac2408278a47a5d0c737
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0ae279f0929d32d438d171df694d3368
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0ae279f0929d32d438d171df694d3368
-    projectPath: Temp\UnityTempFile-0ae279f0929d32d438d171df694d3368
+  - path: Temp\UnityTempFile-07e70d5ee80617f4ca60897183c4584f
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-07e70d5ee80617f4ca60897183c4584f
+    projectPath: Temp\UnityTempFile-07e70d5ee80617f4ca60897183c4584f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0b8b9791084e5da4c889251ad7912ae5
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0b8b9791084e5da4c889251ad7912ae5
-    projectPath: Temp\UnityTempFile-0b8b9791084e5da4c889251ad7912ae5
+  - path: Temp\UnityTempFile-098786595bc7cc240a739a4033ca4143
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-098786595bc7cc240a739a4033ca4143
+    projectPath: Temp\UnityTempFile-098786595bc7cc240a739a4033ca4143
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0c210a13817379545a4dd5f5eb901230
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0c210a13817379545a4dd5f5eb901230
-    projectPath: Temp\UnityTempFile-0c210a13817379545a4dd5f5eb901230
+  - path: Temp\UnityTempFile-099eb99b2ea670e46983e1c18d09d2af
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-099eb99b2ea670e46983e1c18d09d2af
+    projectPath: Temp\UnityTempFile-099eb99b2ea670e46983e1c18d09d2af
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0c8875ba04597bd4594f4dba6c392941
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0c8875ba04597bd4594f4dba6c392941
-    projectPath: Temp\UnityTempFile-0c8875ba04597bd4594f4dba6c392941
+  - path: Temp\UnityTempFile-0a39117529c50a34a846c11fa4d8364f
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0a39117529c50a34a846c11fa4d8364f
+    projectPath: Temp\UnityTempFile-0a39117529c50a34a846c11fa4d8364f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1837e116bbff9a44c8466080b15784bf
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1837e116bbff9a44c8466080b15784bf
-    projectPath: Temp\UnityTempFile-1837e116bbff9a44c8466080b15784bf
+  - path: Temp\UnityTempFile-0cb8a783a23951c40b171e1588aed9a9
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0cb8a783a23951c40b171e1588aed9a9
+    projectPath: Temp\UnityTempFile-0cb8a783a23951c40b171e1588aed9a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1c64191b22f6fd049ba9b44b336daeba
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1c64191b22f6fd049ba9b44b336daeba
-    projectPath: Temp\UnityTempFile-1c64191b22f6fd049ba9b44b336daeba
+  - path: Temp\UnityTempFile-0d0dc7aa8a710e84da6fb09102ddbf4c
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-0d0dc7aa8a710e84da6fb09102ddbf4c
+    projectPath: Temp\UnityTempFile-0d0dc7aa8a710e84da6fb09102ddbf4c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1e69772712ca59c45bc41e78929d29c7
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1e69772712ca59c45bc41e78929d29c7
-    projectPath: Temp\UnityTempFile-1e69772712ca59c45bc41e78929d29c7
+  - path: Temp\UnityTempFile-1047a4a00044da44e9489c34a7fa2b4a
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1047a4a00044da44e9489c34a7fa2b4a
+    projectPath: Temp\UnityTempFile-1047a4a00044da44e9489c34a7fa2b4a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1e9d92c7237b8204aba742f63e6075c5
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1e9d92c7237b8204aba742f63e6075c5
-    projectPath: Temp\UnityTempFile-1e9d92c7237b8204aba742f63e6075c5
+  - path: Temp\UnityTempFile-10c7c603c42ef2a498b25fbec293280b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-10c7c603c42ef2a498b25fbec293280b
+    projectPath: Temp\UnityTempFile-10c7c603c42ef2a498b25fbec293280b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-28174cf8f545d4145823a5c90ea2ceff
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-28174cf8f545d4145823a5c90ea2ceff
-    projectPath: Temp\UnityTempFile-28174cf8f545d4145823a5c90ea2ceff
+  - path: Temp\UnityTempFile-1267c983615a8b247b368673d94904a3
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1267c983615a8b247b368673d94904a3
+    projectPath: Temp\UnityTempFile-1267c983615a8b247b368673d94904a3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-29c1a5f10f21ae0468af65976f780650
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-29c1a5f10f21ae0468af65976f780650
-    projectPath: Temp\UnityTempFile-29c1a5f10f21ae0468af65976f780650
+  - path: Temp\UnityTempFile-12f1968c53aaef14385cf8e65bcac319
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-12f1968c53aaef14385cf8e65bcac319
+    projectPath: Temp\UnityTempFile-12f1968c53aaef14385cf8e65bcac319
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2c501151ecc513b4b87d70daa4ce7a38
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2c501151ecc513b4b87d70daa4ce7a38
-    projectPath: Temp\UnityTempFile-2c501151ecc513b4b87d70daa4ce7a38
+  - path: Temp\UnityTempFile-142734deff474fa4f94af676507d85e1
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-142734deff474fa4f94af676507d85e1
+    projectPath: Temp\UnityTempFile-142734deff474fa4f94af676507d85e1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2e61112f38342274da76efae368880a5
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2e61112f38342274da76efae368880a5
-    projectPath: Temp\UnityTempFile-2e61112f38342274da76efae368880a5
+  - path: Temp\UnityTempFile-14acfc2f09a2a0d4f85e20845026e7c9
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-14acfc2f09a2a0d4f85e20845026e7c9
+    projectPath: Temp\UnityTempFile-14acfc2f09a2a0d4f85e20845026e7c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-34cd01075f3543d42a964d637c3b1ad1
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-34cd01075f3543d42a964d637c3b1ad1
-    projectPath: Temp\UnityTempFile-34cd01075f3543d42a964d637c3b1ad1
+  - path: Temp\UnityTempFile-15c653001a3e02542810a2d7bd124491
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-15c653001a3e02542810a2d7bd124491
+    projectPath: Temp\UnityTempFile-15c653001a3e02542810a2d7bd124491
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3524105227dff064ab72ea8d0d6baf96
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-3524105227dff064ab72ea8d0d6baf96
-    projectPath: Temp\UnityTempFile-3524105227dff064ab72ea8d0d6baf96
+  - path: Temp\UnityTempFile-1caee45e9d5e3a943b5ecc2fc4f6b615
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1caee45e9d5e3a943b5ecc2fc4f6b615
+    projectPath: Temp\UnityTempFile-1caee45e9d5e3a943b5ecc2fc4f6b615
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-37f6b90a74d57924488d3b42ca75910b
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-37f6b90a74d57924488d3b42ca75910b
-    projectPath: Temp\UnityTempFile-37f6b90a74d57924488d3b42ca75910b
+  - path: Temp\UnityTempFile-1ddbe98eed56ae643bcd964c6f353623
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1ddbe98eed56ae643bcd964c6f353623
+    projectPath: Temp\UnityTempFile-1ddbe98eed56ae643bcd964c6f353623
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-41158d49d3ab3064296f927508114e98
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-41158d49d3ab3064296f927508114e98
-    projectPath: Temp\UnityTempFile-41158d49d3ab3064296f927508114e98
+  - path: Temp\UnityTempFile-1e4e95dfca3987747887e3123ff19078
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1e4e95dfca3987747887e3123ff19078
+    projectPath: Temp\UnityTempFile-1e4e95dfca3987747887e3123ff19078
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4180dbada8a41944ca00ebfe38550832
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4180dbada8a41944ca00ebfe38550832
-    projectPath: Temp\UnityTempFile-4180dbada8a41944ca00ebfe38550832
+  - path: Temp\UnityTempFile-1eac94319e7251148909a85b5265d846
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-1eac94319e7251148909a85b5265d846
+    projectPath: Temp\UnityTempFile-1eac94319e7251148909a85b5265d846
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-428efb7651f67d840b86c141caabe641
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-428efb7651f67d840b86c141caabe641
-    projectPath: Temp\UnityTempFile-428efb7651f67d840b86c141caabe641
+  - path: Temp\UnityTempFile-2094f813147f1ba4880433a7f4b0e246
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2094f813147f1ba4880433a7f4b0e246
+    projectPath: Temp\UnityTempFile-2094f813147f1ba4880433a7f4b0e246
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-43b82419368c5ae4382b1f7282578b18
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-43b82419368c5ae4382b1f7282578b18
-    projectPath: Temp\UnityTempFile-43b82419368c5ae4382b1f7282578b18
+  - path: Temp\UnityTempFile-212cb03d240e5df4a8907cce153c90e9
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-212cb03d240e5df4a8907cce153c90e9
+    projectPath: Temp\UnityTempFile-212cb03d240e5df4a8907cce153c90e9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-49ce321a4fad02e4d9741abe3e96f9c1
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-49ce321a4fad02e4d9741abe3e96f9c1
-    projectPath: Temp\UnityTempFile-49ce321a4fad02e4d9741abe3e96f9c1
+  - path: Temp\UnityTempFile-2151d92317af38546bd5ec8c69b8cf94
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2151d92317af38546bd5ec8c69b8cf94
+    projectPath: Temp\UnityTempFile-2151d92317af38546bd5ec8c69b8cf94
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4b3aeefe6197e394193393a63876ae48
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4b3aeefe6197e394193393a63876ae48
-    projectPath: Temp\UnityTempFile-4b3aeefe6197e394193393a63876ae48
+  - path: Temp\UnityTempFile-2348fb0b6947e6549b887017dbb2105c
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2348fb0b6947e6549b887017dbb2105c
+    projectPath: Temp\UnityTempFile-2348fb0b6947e6549b887017dbb2105c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4b3d46fdc3e92854cbb1a71d6e36bd65
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4b3d46fdc3e92854cbb1a71d6e36bd65
-    projectPath: Temp\UnityTempFile-4b3d46fdc3e92854cbb1a71d6e36bd65
+  - path: Temp\UnityTempFile-24df3b0ac68b60e4e893194d86613f90
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-24df3b0ac68b60e4e893194d86613f90
+    projectPath: Temp\UnityTempFile-24df3b0ac68b60e4e893194d86613f90
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4ca067b20f929f245bf2f705e521805e
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4ca067b20f929f245bf2f705e521805e
-    projectPath: Temp\UnityTempFile-4ca067b20f929f245bf2f705e521805e
+  - path: Temp\UnityTempFile-2874d8336a5ae6241b79d2e0857894dc
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2874d8336a5ae6241b79d2e0857894dc
+    projectPath: Temp\UnityTempFile-2874d8336a5ae6241b79d2e0857894dc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4cd82565bed1cec44871d91683ac33eb
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4cd82565bed1cec44871d91683ac33eb
-    projectPath: Temp\UnityTempFile-4cd82565bed1cec44871d91683ac33eb
+  - path: Temp\UnityTempFile-2915db0ca408b8c49849bc71ca720f7a
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2915db0ca408b8c49849bc71ca720f7a
+    projectPath: Temp\UnityTempFile-2915db0ca408b8c49849bc71ca720f7a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4e48825fd902ae7409cf3bfb86075a1b
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4e48825fd902ae7409cf3bfb86075a1b
-    projectPath: Temp\UnityTempFile-4e48825fd902ae7409cf3bfb86075a1b
+  - path: Temp\UnityTempFile-2971531b85a26c84eb1f8036787e3cdb
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2971531b85a26c84eb1f8036787e3cdb
+    projectPath: Temp\UnityTempFile-2971531b85a26c84eb1f8036787e3cdb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-56fddce69e967754f9fa55a30e0e6263
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-56fddce69e967754f9fa55a30e0e6263
-    projectPath: Temp\UnityTempFile-56fddce69e967754f9fa55a30e0e6263
+  - path: Temp\UnityTempFile-2a37bd767b4b51b48a657af88ed8c480
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2a37bd767b4b51b48a657af88ed8c480
+    projectPath: Temp\UnityTempFile-2a37bd767b4b51b48a657af88ed8c480
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6108b0af747075246ae510acb437ca5f
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6108b0af747075246ae510acb437ca5f
-    projectPath: Temp\UnityTempFile-6108b0af747075246ae510acb437ca5f
+  - path: Temp\UnityTempFile-2af0735df05cf56479b068cae451909e
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2af0735df05cf56479b068cae451909e
+    projectPath: Temp\UnityTempFile-2af0735df05cf56479b068cae451909e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-612a571b990b76546a4d613a5b75e503
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-612a571b990b76546a4d613a5b75e503
-    projectPath: Temp\UnityTempFile-612a571b990b76546a4d613a5b75e503
+  - path: Temp\UnityTempFile-2d4d98bb1a2afd74591164dedba40c65
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2d4d98bb1a2afd74591164dedba40c65
+    projectPath: Temp\UnityTempFile-2d4d98bb1a2afd74591164dedba40c65
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-630d25f4ff1a1ee489a573b500ca5431
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-630d25f4ff1a1ee489a573b500ca5431
-    projectPath: Temp\UnityTempFile-630d25f4ff1a1ee489a573b500ca5431
+  - path: Temp\UnityTempFile-2f9193532153ec145a81058532f2cedf
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-2f9193532153ec145a81058532f2cedf
+    projectPath: Temp\UnityTempFile-2f9193532153ec145a81058532f2cedf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-66bdac198416b8f458f2e9a11d2e50cb
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-66bdac198416b8f458f2e9a11d2e50cb
-    projectPath: Temp\UnityTempFile-66bdac198416b8f458f2e9a11d2e50cb
+  - path: Temp\UnityTempFile-32708fbe58ce6ff4e94b1686c94653ba
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-32708fbe58ce6ff4e94b1686c94653ba
+    projectPath: Temp\UnityTempFile-32708fbe58ce6ff4e94b1686c94653ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6971d8c3d1c11454dba9ee913c3ad33c
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6971d8c3d1c11454dba9ee913c3ad33c
-    projectPath: Temp\UnityTempFile-6971d8c3d1c11454dba9ee913c3ad33c
+  - path: Temp\UnityTempFile-3fbfd756d2cceb04cbbf757b400a921d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-3fbfd756d2cceb04cbbf757b400a921d
+    projectPath: Temp\UnityTempFile-3fbfd756d2cceb04cbbf757b400a921d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6c1245abd2e54d243812c9bd80f22213
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6c1245abd2e54d243812c9bd80f22213
-    projectPath: Temp\UnityTempFile-6c1245abd2e54d243812c9bd80f22213
+  - path: Temp\UnityTempFile-424371e9fd0537649849ab04bf139612
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-424371e9fd0537649849ab04bf139612
+    projectPath: Temp\UnityTempFile-424371e9fd0537649849ab04bf139612
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6c4f225503f4a9940bda131c34d885a5
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6c4f225503f4a9940bda131c34d885a5
-    projectPath: Temp\UnityTempFile-6c4f225503f4a9940bda131c34d885a5
+  - path: Temp\UnityTempFile-43c94228ded3f8e42b08a3a29784196c
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-43c94228ded3f8e42b08a3a29784196c
+    projectPath: Temp\UnityTempFile-43c94228ded3f8e42b08a3a29784196c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6f4f2e18b220a4f46b0573b6b11954e8
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6f4f2e18b220a4f46b0573b6b11954e8
-    projectPath: Temp\UnityTempFile-6f4f2e18b220a4f46b0573b6b11954e8
+  - path: Temp\UnityTempFile-457b0097fb906734fa910cad5a1bad4f
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-457b0097fb906734fa910cad5a1bad4f
+    projectPath: Temp\UnityTempFile-457b0097fb906734fa910cad5a1bad4f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6fe6bf015d93e6f4db91c0644a587ba9
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6fe6bf015d93e6f4db91c0644a587ba9
-    projectPath: Temp\UnityTempFile-6fe6bf015d93e6f4db91c0644a587ba9
+  - path: Temp\UnityTempFile-4aff68280777a5749b07e9a2f63d4f8d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4aff68280777a5749b07e9a2f63d4f8d
+    projectPath: Temp\UnityTempFile-4aff68280777a5749b07e9a2f63d4f8d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-706e835dcc825f147b9206af2a7ea2c6
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-706e835dcc825f147b9206af2a7ea2c6
-    projectPath: Temp\UnityTempFile-706e835dcc825f147b9206af2a7ea2c6
+  - path: Temp\UnityTempFile-4d1d1466dd2d8fd43a2c76c520a340d5
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-4d1d1466dd2d8fd43a2c76c520a340d5
+    projectPath: Temp\UnityTempFile-4d1d1466dd2d8fd43a2c76c520a340d5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-72566fc96c24f3348a9bc35bff5627b0
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-72566fc96c24f3348a9bc35bff5627b0
-    projectPath: Temp\UnityTempFile-72566fc96c24f3348a9bc35bff5627b0
+  - path: Temp\UnityTempFile-50e8ae2bdd39cd443a691aeef07ac085
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-50e8ae2bdd39cd443a691aeef07ac085
+    projectPath: Temp\UnityTempFile-50e8ae2bdd39cd443a691aeef07ac085
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-73191409c479b654b86613eb1494c0d0
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-73191409c479b654b86613eb1494c0d0
-    projectPath: Temp\UnityTempFile-73191409c479b654b86613eb1494c0d0
+  - path: Temp\UnityTempFile-52458af70880cf34ba248e460390b47b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-52458af70880cf34ba248e460390b47b
+    projectPath: Temp\UnityTempFile-52458af70880cf34ba248e460390b47b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-74718ce9d7f1d1b4280d31c809cead1e
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-74718ce9d7f1d1b4280d31c809cead1e
-    projectPath: Temp\UnityTempFile-74718ce9d7f1d1b4280d31c809cead1e
+  - path: Temp\UnityTempFile-52797a6f620fc5b4cb02c8336f81ce65
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-52797a6f620fc5b4cb02c8336f81ce65
+    projectPath: Temp\UnityTempFile-52797a6f620fc5b4cb02c8336f81ce65
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-7558164b7c4cc2f4ca3eeef075578c13
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7558164b7c4cc2f4ca3eeef075578c13
-    projectPath: Temp\UnityTempFile-7558164b7c4cc2f4ca3eeef075578c13
+  - path: Temp\UnityTempFile-5319ddba973d10f4ea72a55bf37342de
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5319ddba973d10f4ea72a55bf37342de
+    projectPath: Temp\UnityTempFile-5319ddba973d10f4ea72a55bf37342de
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-78244397efe1a5543af44f90e254c369
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-78244397efe1a5543af44f90e254c369
-    projectPath: Temp\UnityTempFile-78244397efe1a5543af44f90e254c369
+  - path: Temp\UnityTempFile-538d0228865e5104e8b44f93e3900043
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-538d0228865e5104e8b44f93e3900043
+    projectPath: Temp\UnityTempFile-538d0228865e5104e8b44f93e3900043
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-816f78d891d42f640901f5ba888df8cc
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-816f78d891d42f640901f5ba888df8cc
-    projectPath: Temp\UnityTempFile-816f78d891d42f640901f5ba888df8cc
+  - path: Temp\UnityTempFile-54eed984c7f8d254daa1658f6017dfa0
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-54eed984c7f8d254daa1658f6017dfa0
+    projectPath: Temp\UnityTempFile-54eed984c7f8d254daa1658f6017dfa0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-82873d714c580be419471a710f5d44cb
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-82873d714c580be419471a710f5d44cb
-    projectPath: Temp\UnityTempFile-82873d714c580be419471a710f5d44cb
+  - path: Temp\UnityTempFile-553e407561d68d5478dff46a90ec28f8
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-553e407561d68d5478dff46a90ec28f8
+    projectPath: Temp\UnityTempFile-553e407561d68d5478dff46a90ec28f8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-8728710c91dd15e40a602a45011ad060
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-8728710c91dd15e40a602a45011ad060
-    projectPath: Temp\UnityTempFile-8728710c91dd15e40a602a45011ad060
+  - path: Temp\UnityTempFile-5832db49f4310cc4d9c489a68a5b717c
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5832db49f4310cc4d9c489a68a5b717c
+    projectPath: Temp\UnityTempFile-5832db49f4310cc4d9c489a68a5b717c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-87bf76c555b517848b732232bda0667f
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-87bf76c555b517848b732232bda0667f
-    projectPath: Temp\UnityTempFile-87bf76c555b517848b732232bda0667f
+  - path: Temp\UnityTempFile-5b6583fc583b22f4ab7141afdd7d5665
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5b6583fc583b22f4ab7141afdd7d5665
+    projectPath: Temp\UnityTempFile-5b6583fc583b22f4ab7141afdd7d5665
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-8f629c9a03af9c84d92b12a8f6e98e2e
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-8f629c9a03af9c84d92b12a8f6e98e2e
-    projectPath: Temp\UnityTempFile-8f629c9a03af9c84d92b12a8f6e98e2e
+  - path: Temp\UnityTempFile-5ed496eb0e8e9934ca1a9ec5bdfdddb0
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5ed496eb0e8e9934ca1a9ec5bdfdddb0
+    projectPath: Temp\UnityTempFile-5ed496eb0e8e9934ca1a9ec5bdfdddb0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9887332676e84dc468925f05fd20d7b0
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9887332676e84dc468925f05fd20d7b0
-    projectPath: Temp\UnityTempFile-9887332676e84dc468925f05fd20d7b0
+  - path: Temp\UnityTempFile-5f77498febe352840b4a3dc83f551c9a
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-5f77498febe352840b4a3dc83f551c9a
+    projectPath: Temp\UnityTempFile-5f77498febe352840b4a3dc83f551c9a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9c31a49b49b43d240973e0f8ad2eea83
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9c31a49b49b43d240973e0f8ad2eea83
-    projectPath: Temp\UnityTempFile-9c31a49b49b43d240973e0f8ad2eea83
+  - path: Temp\UnityTempFile-6188a67a013d8044f93f27365c1db3e4
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6188a67a013d8044f93f27365c1db3e4
+    projectPath: Temp\UnityTempFile-6188a67a013d8044f93f27365c1db3e4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9c76902fe7c2cd64ebd7c6755377f1b7
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9c76902fe7c2cd64ebd7c6755377f1b7
-    projectPath: Temp\UnityTempFile-9c76902fe7c2cd64ebd7c6755377f1b7
+  - path: Temp\UnityTempFile-641231c25e07a5349a8db1218277e780
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-641231c25e07a5349a8db1218277e780
+    projectPath: Temp\UnityTempFile-641231c25e07a5349a8db1218277e780
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9f6244c6b33be0740817d2b385edb3fd
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9f6244c6b33be0740817d2b385edb3fd
-    projectPath: Temp\UnityTempFile-9f6244c6b33be0740817d2b385edb3fd
+  - path: Temp\UnityTempFile-644c51e09de1a6644b16c12c09cd4741
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-644c51e09de1a6644b16c12c09cd4741
+    projectPath: Temp\UnityTempFile-644c51e09de1a6644b16c12c09cd4741
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a1074486a879b2940911580a9772744a
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a1074486a879b2940911580a9772744a
-    projectPath: Temp\UnityTempFile-a1074486a879b2940911580a9772744a
+  - path: Temp\UnityTempFile-64646f27f313087448c8c914d22ce236
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-64646f27f313087448c8c914d22ce236
+    projectPath: Temp\UnityTempFile-64646f27f313087448c8c914d22ce236
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a19db110203f2594595a537321a6b978
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a19db110203f2594595a537321a6b978
-    projectPath: Temp\UnityTempFile-a19db110203f2594595a537321a6b978
+  - path: Temp\UnityTempFile-68b6d3d604a164947a78bdedd9fb1887
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-68b6d3d604a164947a78bdedd9fb1887
+    projectPath: Temp\UnityTempFile-68b6d3d604a164947a78bdedd9fb1887
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a34ffb5ff4a6f0c43b3fe2c06d4c3dac
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a34ffb5ff4a6f0c43b3fe2c06d4c3dac
-    projectPath: Temp\UnityTempFile-a34ffb5ff4a6f0c43b3fe2c06d4c3dac
+  - path: Temp\UnityTempFile-69f62fa56fc6a184cb4aa1df3e09a1a4
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-69f62fa56fc6a184cb4aa1df3e09a1a4
+    projectPath: Temp\UnityTempFile-69f62fa56fc6a184cb4aa1df3e09a1a4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a5219d1bdd8826b458cb04b8ff34623a
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a5219d1bdd8826b458cb04b8ff34623a
-    projectPath: Temp\UnityTempFile-a5219d1bdd8826b458cb04b8ff34623a
+  - path: Temp\UnityTempFile-6a0958684bd69f04db820503e0d9fef3
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6a0958684bd69f04db820503e0d9fef3
+    projectPath: Temp\UnityTempFile-6a0958684bd69f04db820503e0d9fef3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a756cf965e8789a4eb312451ff2e626c
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a756cf965e8789a4eb312451ff2e626c
-    projectPath: Temp\UnityTempFile-a756cf965e8789a4eb312451ff2e626c
+  - path: Temp\UnityTempFile-6d71b4c1cbf6627489b47a38d5dae11d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-6d71b4c1cbf6627489b47a38d5dae11d
+    projectPath: Temp\UnityTempFile-6d71b4c1cbf6627489b47a38d5dae11d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ab20802f65a3149429e546ca88d79d4a
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ab20802f65a3149429e546ca88d79d4a
-    projectPath: Temp\UnityTempFile-ab20802f65a3149429e546ca88d79d4a
+  - path: Temp\UnityTempFile-71513e767aad1494b8a61df31e5e8ccf
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-71513e767aad1494b8a61df31e5e8ccf
+    projectPath: Temp\UnityTempFile-71513e767aad1494b8a61df31e5e8ccf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ab8f4fc361b17bf449c71bf61c7ac9aa
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ab8f4fc361b17bf449c71bf61c7ac9aa
-    projectPath: Temp\UnityTempFile-ab8f4fc361b17bf449c71bf61c7ac9aa
+  - path: Temp\UnityTempFile-754d9164cb788d6408b025feef41f80d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-754d9164cb788d6408b025feef41f80d
+    projectPath: Temp\UnityTempFile-754d9164cb788d6408b025feef41f80d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-af23cdf5a2e65e34196486e1420f9139
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-af23cdf5a2e65e34196486e1420f9139
-    projectPath: Temp\UnityTempFile-af23cdf5a2e65e34196486e1420f9139
+  - path: Temp\UnityTempFile-7582795fa5346664aa08187a15519918
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7582795fa5346664aa08187a15519918
+    projectPath: Temp\UnityTempFile-7582795fa5346664aa08187a15519918
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b0aa2ab9508d0a841b79d0e7ec1348fd
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b0aa2ab9508d0a841b79d0e7ec1348fd
-    projectPath: Temp\UnityTempFile-b0aa2ab9508d0a841b79d0e7ec1348fd
+  - path: Temp\UnityTempFile-763c2858cda37c144b368085bee9efde
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-763c2858cda37c144b368085bee9efde
+    projectPath: Temp\UnityTempFile-763c2858cda37c144b368085bee9efde
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b3191fe30dfab1f4ab36b677db3358c9
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b3191fe30dfab1f4ab36b677db3358c9
-    projectPath: Temp\UnityTempFile-b3191fe30dfab1f4ab36b677db3358c9
+  - path: Temp\UnityTempFile-77bbe1d4a71dd6b4fbefc7ae0ae45b03
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-77bbe1d4a71dd6b4fbefc7ae0ae45b03
+    projectPath: Temp\UnityTempFile-77bbe1d4a71dd6b4fbefc7ae0ae45b03
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b33df7ddc0939314eb30f2289b1a4f85
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b33df7ddc0939314eb30f2289b1a4f85
-    projectPath: Temp\UnityTempFile-b33df7ddc0939314eb30f2289b1a4f85
+  - path: Temp\UnityTempFile-78e257144a03bac4f974e0462a5f560a
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-78e257144a03bac4f974e0462a5f560a
+    projectPath: Temp\UnityTempFile-78e257144a03bac4f974e0462a5f560a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b3f7ee6abf3239547917c86da219e23b
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b3f7ee6abf3239547917c86da219e23b
-    projectPath: Temp\UnityTempFile-b3f7ee6abf3239547917c86da219e23b
+  - path: Temp\UnityTempFile-7ac513224cd508d43914a77d1233e51b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7ac513224cd508d43914a77d1233e51b
+    projectPath: Temp\UnityTempFile-7ac513224cd508d43914a77d1233e51b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b4e6e5ee3f229494baea680810692cf4
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b4e6e5ee3f229494baea680810692cf4
-    projectPath: Temp\UnityTempFile-b4e6e5ee3f229494baea680810692cf4
+  - path: Temp\UnityTempFile-7d52cf1c10d86cf4192cca248916d9e6
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7d52cf1c10d86cf4192cca248916d9e6
+    projectPath: Temp\UnityTempFile-7d52cf1c10d86cf4192cca248916d9e6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b8e803e164f555d44b7b045457e47836
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b8e803e164f555d44b7b045457e47836
-    projectPath: Temp\UnityTempFile-b8e803e164f555d44b7b045457e47836
+  - path: Temp\UnityTempFile-7d808a4bb0cc2fc4aa15b463072a091b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7d808a4bb0cc2fc4aa15b463072a091b
+    projectPath: Temp\UnityTempFile-7d808a4bb0cc2fc4aa15b463072a091b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b9ec3e7acd6a68241a930ce16bd4584d
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b9ec3e7acd6a68241a930ce16bd4584d
-    projectPath: Temp\UnityTempFile-b9ec3e7acd6a68241a930ce16bd4584d
+  - path: Temp\UnityTempFile-7e520c51b51bc87489db5c0e0e1fdacd
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-7e520c51b51bc87489db5c0e0e1fdacd
+    projectPath: Temp\UnityTempFile-7e520c51b51bc87489db5c0e0e1fdacd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-bd40515123c84ca4c9b5f95895e3d627
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-bd40515123c84ca4c9b5f95895e3d627
-    projectPath: Temp\UnityTempFile-bd40515123c84ca4c9b5f95895e3d627
+  - path: Temp\UnityTempFile-838094f173a76fb438a10a1160e3dd7f
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-838094f173a76fb438a10a1160e3dd7f
+    projectPath: Temp\UnityTempFile-838094f173a76fb438a10a1160e3dd7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-bd64b328bacd28049a61d876c5a42457
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-bd64b328bacd28049a61d876c5a42457
-    projectPath: Temp\UnityTempFile-bd64b328bacd28049a61d876c5a42457
+  - path: Temp\UnityTempFile-8b69da166b8ca6a439f27f2007f43f2b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-8b69da166b8ca6a439f27f2007f43f2b
+    projectPath: Temp\UnityTempFile-8b69da166b8ca6a439f27f2007f43f2b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c05591ee55e8965479e67abd365c4788
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c05591ee55e8965479e67abd365c4788
-    projectPath: Temp\UnityTempFile-c05591ee55e8965479e67abd365c4788
+  - path: Temp\UnityTempFile-8c935ef5f2977044d82a75744f24ea73
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-8c935ef5f2977044d82a75744f24ea73
+    projectPath: Temp\UnityTempFile-8c935ef5f2977044d82a75744f24ea73
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c058564a7d6dc024ebaf45a7a5ec1b0b
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c058564a7d6dc024ebaf45a7a5ec1b0b
-    projectPath: Temp\UnityTempFile-c058564a7d6dc024ebaf45a7a5ec1b0b
+  - path: Temp\UnityTempFile-8e7ae75ae50a53e46bde835c28f696d6
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-8e7ae75ae50a53e46bde835c28f696d6
+    projectPath: Temp\UnityTempFile-8e7ae75ae50a53e46bde835c28f696d6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c72ef1ee0c4456043bb9b7854e842504
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c72ef1ee0c4456043bb9b7854e842504
-    projectPath: Temp\UnityTempFile-c72ef1ee0c4456043bb9b7854e842504
+  - path: Temp\UnityTempFile-90c7c59ea91ae1749843be86ec8e00d0
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-90c7c59ea91ae1749843be86ec8e00d0
+    projectPath: Temp\UnityTempFile-90c7c59ea91ae1749843be86ec8e00d0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c91f748cf65ac664982cf6269eae6f2f
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c91f748cf65ac664982cf6269eae6f2f
-    projectPath: Temp\UnityTempFile-c91f748cf65ac664982cf6269eae6f2f
+  - path: Temp\UnityTempFile-90f1b1592a4644649b4d3999f6abc801
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-90f1b1592a4644649b4d3999f6abc801
+    projectPath: Temp\UnityTempFile-90f1b1592a4644649b4d3999f6abc801
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c9a0085f7ef392c43b12bda1a1ca9fe4
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c9a0085f7ef392c43b12bda1a1ca9fe4
-    projectPath: Temp\UnityTempFile-c9a0085f7ef392c43b12bda1a1ca9fe4
+  - path: Temp\UnityTempFile-96dd1316c8e041f40919beb4553f3296
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-96dd1316c8e041f40919beb4553f3296
+    projectPath: Temp\UnityTempFile-96dd1316c8e041f40919beb4553f3296
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-cb57fef15fd759d4eb1bf7abc6dc8e52
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-cb57fef15fd759d4eb1bf7abc6dc8e52
-    projectPath: Temp\UnityTempFile-cb57fef15fd759d4eb1bf7abc6dc8e52
+  - path: Temp\UnityTempFile-990cc422ab49c13438822e210dd9b234
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-990cc422ab49c13438822e210dd9b234
+    projectPath: Temp\UnityTempFile-990cc422ab49c13438822e210dd9b234
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-cc8a7573bb882b348acbbeb24525f442
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-cc8a7573bb882b348acbbeb24525f442
-    projectPath: Temp\UnityTempFile-cc8a7573bb882b348acbbeb24525f442
+  - path: Temp\UnityTempFile-9930f38db00b3134689cae85f955a6bf
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9930f38db00b3134689cae85f955a6bf
+    projectPath: Temp\UnityTempFile-9930f38db00b3134689cae85f955a6bf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ce6db06eda89a7b4ba89cb2ab34dc0c5
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ce6db06eda89a7b4ba89cb2ab34dc0c5
-    projectPath: Temp\UnityTempFile-ce6db06eda89a7b4ba89cb2ab34dc0c5
+  - path: Temp\UnityTempFile-9a22bf8b7ab7289479130b4666b82261
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9a22bf8b7ab7289479130b4666b82261
+    projectPath: Temp\UnityTempFile-9a22bf8b7ab7289479130b4666b82261
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-d38235fa9b782e44ca67dc19f6d9f660
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d38235fa9b782e44ca67dc19f6d9f660
-    projectPath: Temp\UnityTempFile-d38235fa9b782e44ca67dc19f6d9f660
+  - path: Temp\UnityTempFile-9a969153611daf940b4c460944930c17
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9a969153611daf940b4c460944930c17
+    projectPath: Temp\UnityTempFile-9a969153611daf940b4c460944930c17
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-d64dcc41cade01943976fc3bc5ede8eb
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d64dcc41cade01943976fc3bc5ede8eb
-    projectPath: Temp\UnityTempFile-d64dcc41cade01943976fc3bc5ede8eb
+  - path: Temp\UnityTempFile-9c355f01ba3641842b7bb334b448cb50
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9c355f01ba3641842b7bb334b448cb50
+    projectPath: Temp\UnityTempFile-9c355f01ba3641842b7bb334b448cb50
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-dd049f35625e4434e8575ab2c9370fb7
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-dd049f35625e4434e8575ab2c9370fb7
-    projectPath: Temp\UnityTempFile-dd049f35625e4434e8575ab2c9370fb7
+  - path: Temp\UnityTempFile-9c7a6d01bbcdc2f43b44cbb14e8b71e6
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9c7a6d01bbcdc2f43b44cbb14e8b71e6
+    projectPath: Temp\UnityTempFile-9c7a6d01bbcdc2f43b44cbb14e8b71e6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e0fe3157a7d612642afc90335010ccc8
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e0fe3157a7d612642afc90335010ccc8
-    projectPath: Temp\UnityTempFile-e0fe3157a7d612642afc90335010ccc8
+  - path: Temp\UnityTempFile-9d48e39e53492674586aed8c9f18e879
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9d48e39e53492674586aed8c9f18e879
+    projectPath: Temp\UnityTempFile-9d48e39e53492674586aed8c9f18e879
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e206f10a52f0f58449d3a27b9b93ed60
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e206f10a52f0f58449d3a27b9b93ed60
-    projectPath: Temp\UnityTempFile-e206f10a52f0f58449d3a27b9b93ed60
+  - path: Temp\UnityTempFile-9eb1d18d1a3ef574099d25b3b4236e47
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-9eb1d18d1a3ef574099d25b3b4236e47
+    projectPath: Temp\UnityTempFile-9eb1d18d1a3ef574099d25b3b4236e47
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e26ca764ac5fd6c4f98652afbc6029a8
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e26ca764ac5fd6c4f98652afbc6029a8
-    projectPath: Temp\UnityTempFile-e26ca764ac5fd6c4f98652afbc6029a8
+  - path: Temp\UnityTempFile-a1908e1067fb1f44f89406200a57d843
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a1908e1067fb1f44f89406200a57d843
+    projectPath: Temp\UnityTempFile-a1908e1067fb1f44f89406200a57d843
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e335d4cbb5ba69142ae258af7f1d7631
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e335d4cbb5ba69142ae258af7f1d7631
-    projectPath: Temp\UnityTempFile-e335d4cbb5ba69142ae258af7f1d7631
+  - path: Temp\UnityTempFile-a2d824378dcbdaf44a3baa31953fcdf8
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a2d824378dcbdaf44a3baa31953fcdf8
+    projectPath: Temp\UnityTempFile-a2d824378dcbdaf44a3baa31953fcdf8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e5e1acb43c84d11478b003978abb36bf
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e5e1acb43c84d11478b003978abb36bf
-    projectPath: Temp\UnityTempFile-e5e1acb43c84d11478b003978abb36bf
+  - path: Temp\UnityTempFile-a462da4c6ce39634ab969c84bb6b17d3
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a462da4c6ce39634ab969c84bb6b17d3
+    projectPath: Temp\UnityTempFile-a462da4c6ce39634ab969c84bb6b17d3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-e9bff0c08f7cedd499298a9f683b43a6
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e9bff0c08f7cedd499298a9f683b43a6
-    projectPath: Temp\UnityTempFile-e9bff0c08f7cedd499298a9f683b43a6
+  - path: Temp\UnityTempFile-a586f77648d6b934cba6665dc4e7fc09
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a586f77648d6b934cba6665dc4e7fc09
+    projectPath: Temp\UnityTempFile-a586f77648d6b934cba6665dc4e7fc09
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ec46fec6552675e4ea8f0abf002cf1e3
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ec46fec6552675e4ea8f0abf002cf1e3
-    projectPath: Temp\UnityTempFile-ec46fec6552675e4ea8f0abf002cf1e3
+  - path: Temp\UnityTempFile-a5d618d6994150c4980ac3eb13c4b27d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a5d618d6994150c4980ac3eb13c4b27d
+    projectPath: Temp\UnityTempFile-a5d618d6994150c4980ac3eb13c4b27d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-edf7cd0c9f8bbaf4d998c9b8de5bd1b2
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-edf7cd0c9f8bbaf4d998c9b8de5bd1b2
-    projectPath: Temp\UnityTempFile-edf7cd0c9f8bbaf4d998c9b8de5bd1b2
+  - path: Temp\UnityTempFile-a6091e63ee290f446a2315134234db4e
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-a6091e63ee290f446a2315134234db4e
+    projectPath: Temp\UnityTempFile-a6091e63ee290f446a2315134234db4e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-eefd22a5334031d4ebedcfba8cc5c36d
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-eefd22a5334031d4ebedcfba8cc5c36d
-    projectPath: Temp\UnityTempFile-eefd22a5334031d4ebedcfba8cc5c36d
+  - path: Temp\UnityTempFile-b1515327de9ba9348ad392a4c29e8b9d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b1515327de9ba9348ad392a4c29e8b9d
+    projectPath: Temp\UnityTempFile-b1515327de9ba9348ad392a4c29e8b9d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f0a528ccf33d5f942a6490c90728639b
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f0a528ccf33d5f942a6490c90728639b
-    projectPath: Temp\UnityTempFile-f0a528ccf33d5f942a6490c90728639b
+  - path: Temp\UnityTempFile-b194f62220d2f07418f4efa864c27091
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b194f62220d2f07418f4efa864c27091
+    projectPath: Temp\UnityTempFile-b194f62220d2f07418f4efa864c27091
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f15b7bf5e0688604cb94d7298bc58850
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f15b7bf5e0688604cb94d7298bc58850
-    projectPath: Temp\UnityTempFile-f15b7bf5e0688604cb94d7298bc58850
+  - path: Temp\UnityTempFile-b3ca1d83cdbe0314cb9b01482516e6eb
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b3ca1d83cdbe0314cb9b01482516e6eb
+    projectPath: Temp\UnityTempFile-b3ca1d83cdbe0314cb9b01482516e6eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f6f875a5d72326e43a6bf11322352940
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f6f875a5d72326e43a6bf11322352940
-    projectPath: Temp\UnityTempFile-f6f875a5d72326e43a6bf11322352940
+  - path: Temp\UnityTempFile-b42a9f78ea4454d42a0372ea4a2bb436
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b42a9f78ea4454d42a0372ea4a2bb436
+    projectPath: Temp\UnityTempFile-b42a9f78ea4454d42a0372ea4a2bb436
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f708eb705039ce04c940b6d9655b67c4
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f708eb705039ce04c940b6d9655b67c4
-    projectPath: Temp\UnityTempFile-f708eb705039ce04c940b6d9655b67c4
+  - path: Temp\UnityTempFile-b42becf2869bd6f488c97e433ec6a3e7
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b42becf2869bd6f488c97e433ec6a3e7
+    projectPath: Temp\UnityTempFile-b42becf2869bd6f488c97e433ec6a3e7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f7da78da6d714414091027c9d7b40a9c
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f7da78da6d714414091027c9d7b40a9c
-    projectPath: Temp\UnityTempFile-f7da78da6d714414091027c9d7b40a9c
+  - path: Temp\UnityTempFile-b5633c769a850c74382ddb0d1a81a6cc
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b5633c769a850c74382ddb0d1a81a6cc
+    projectPath: Temp\UnityTempFile-b5633c769a850c74382ddb0d1a81a6cc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f8b2aec9efe23e44bb3205253c04ff48
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f8b2aec9efe23e44bb3205253c04ff48
-    projectPath: Temp\UnityTempFile-f8b2aec9efe23e44bb3205253c04ff48
+  - path: Temp\UnityTempFile-b638d91b7fc20f14a8106ed8035d6bc1
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b638d91b7fc20f14a8106ed8035d6bc1
+    projectPath: Temp\UnityTempFile-b638d91b7fc20f14a8106ed8035d6bc1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-f8dbf3a0636ac904dbea4bd7286925db
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f8dbf3a0636ac904dbea4bd7286925db
-    projectPath: Temp\UnityTempFile-f8dbf3a0636ac904dbea4bd7286925db
+  - path: Temp\UnityTempFile-b68b3a4164ccf8d40bc906f6a660076a
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b68b3a4164ccf8d40bc906f6a660076a
+    projectPath: Temp\UnityTempFile-b68b3a4164ccf8d40bc906f6a660076a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-feb8c88e88606e441a589d02a0f659e6
-    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-feb8c88e88606e441a589d02a0f659e6
-    projectPath: Temp\UnityTempFile-feb8c88e88606e441a589d02a0f659e6
+  - path: Temp\UnityTempFile-b71dc31103be9764d99417b79408a486
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b71dc31103be9764d99417b79408a486
+    projectPath: Temp\UnityTempFile-b71dc31103be9764d99417b79408a486
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b83fa4ef092a98f46b0ff529b4bf86b4
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b83fa4ef092a98f46b0ff529b4bf86b4
+    projectPath: Temp\UnityTempFile-b83fa4ef092a98f46b0ff529b4bf86b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b887da7f44c9bbb4198c4cd19f79c3b3
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b887da7f44c9bbb4198c4cd19f79c3b3
+    projectPath: Temp\UnityTempFile-b887da7f44c9bbb4198c4cd19f79c3b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b9c940d70e6edef43a67c746b323bab0
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-b9c940d70e6edef43a67c746b323bab0
+    projectPath: Temp\UnityTempFile-b9c940d70e6edef43a67c746b323bab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bf8d44d6919368f419d49acf129fbe07
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-bf8d44d6919368f419d49acf129fbe07
+    projectPath: Temp\UnityTempFile-bf8d44d6919368f419d49acf129fbe07
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bfdf8f9598bac4245bde8a1b4ef874c1
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-bfdf8f9598bac4245bde8a1b4ef874c1
+    projectPath: Temp\UnityTempFile-bfdf8f9598bac4245bde8a1b4ef874c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c861f0d9441842c448363a119e53aea1
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c861f0d9441842c448363a119e53aea1
+    projectPath: Temp\UnityTempFile-c861f0d9441842c448363a119e53aea1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c8b3c1df08cc24145b08842b10e2c136
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-c8b3c1df08cc24145b08842b10e2c136
+    projectPath: Temp\UnityTempFile-c8b3c1df08cc24145b08842b10e2c136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cc328d964417c5c4384aaca9b263e2dd
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-cc328d964417c5c4384aaca9b263e2dd
+    projectPath: Temp\UnityTempFile-cc328d964417c5c4384aaca9b263e2dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd6795e1744432a4cb375796c4c1e847
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-cd6795e1744432a4cb375796c4c1e847
+    projectPath: Temp\UnityTempFile-cd6795e1744432a4cb375796c4c1e847
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d0c017fe873d6a7418ca8ace96f4b55c
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d0c017fe873d6a7418ca8ace96f4b55c
+    projectPath: Temp\UnityTempFile-d0c017fe873d6a7418ca8ace96f4b55c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d3ef9505d3090ba499252935652ce349
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d3ef9505d3090ba499252935652ce349
+    projectPath: Temp\UnityTempFile-d3ef9505d3090ba499252935652ce349
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d5881c89a63046c49bf2779ecdc0f4f1
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d5881c89a63046c49bf2779ecdc0f4f1
+    projectPath: Temp\UnityTempFile-d5881c89a63046c49bf2779ecdc0f4f1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d66333b36a00ee64799c8c5c89c8e8d3
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d66333b36a00ee64799c8c5c89c8e8d3
+    projectPath: Temp\UnityTempFile-d66333b36a00ee64799c8c5c89c8e8d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d734bb10d64821b41a1eb8ee343c3b4d
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d734bb10d64821b41a1eb8ee343c3b4d
+    projectPath: Temp\UnityTempFile-d734bb10d64821b41a1eb8ee343c3b4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d77fae7b308778e41b2246710f6c505b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d77fae7b308778e41b2246710f6c505b
+    projectPath: Temp\UnityTempFile-d77fae7b308778e41b2246710f6c505b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d79a17bc6a968cd4d8419b41f7c5cade
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d79a17bc6a968cd4d8419b41f7c5cade
+    projectPath: Temp\UnityTempFile-d79a17bc6a968cd4d8419b41f7c5cade
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d9954575fdf98c6488378af29a776891
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-d9954575fdf98c6488378af29a776891
+    projectPath: Temp\UnityTempFile-d9954575fdf98c6488378af29a776891
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-da50ffbb82efe6d4c8dbc343ff7187dc
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-da50ffbb82efe6d4c8dbc343ff7187dc
+    projectPath: Temp\UnityTempFile-da50ffbb82efe6d4c8dbc343ff7187dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-da71c00857813494dbaab8f511e5582e
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-da71c00857813494dbaab8f511e5582e
+    projectPath: Temp\UnityTempFile-da71c00857813494dbaab8f511e5582e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dbea0404d46f50e4cafcedb4e7520844
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-dbea0404d46f50e4cafcedb4e7520844
+    projectPath: Temp\UnityTempFile-dbea0404d46f50e4cafcedb4e7520844
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dc1f7024d789b934c8a5d5c42973073a
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-dc1f7024d789b934c8a5d5c42973073a
+    projectPath: Temp\UnityTempFile-dc1f7024d789b934c8a5d5c42973073a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-dfceccb18c38d624ab557b3b8baed3bc
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-dfceccb18c38d624ab557b3b8baed3bc
+    projectPath: Temp\UnityTempFile-dfceccb18c38d624ab557b3b8baed3bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e370119445033714b9ced73812edd910
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e370119445033714b9ced73812edd910
+    projectPath: Temp\UnityTempFile-e370119445033714b9ced73812edd910
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e5d89d1daaf4cbf4b9c85223697d6278
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e5d89d1daaf4cbf4b9c85223697d6278
+    projectPath: Temp\UnityTempFile-e5d89d1daaf4cbf4b9c85223697d6278
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e6c30ab6ccfd87c4b8d7f0df9a1982cb
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e6c30ab6ccfd87c4b8d7f0df9a1982cb
+    projectPath: Temp\UnityTempFile-e6c30ab6ccfd87c4b8d7f0df9a1982cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e82540955e7904743bea7f88db077c46
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e82540955e7904743bea7f88db077c46
+    projectPath: Temp\UnityTempFile-e82540955e7904743bea7f88db077c46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e87f86aee3f4ead46b9679b8541b4f84
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e87f86aee3f4ead46b9679b8541b4f84
+    projectPath: Temp\UnityTempFile-e87f86aee3f4ead46b9679b8541b4f84
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e8b4b428d13bdf04d8d7edf9b8f3b3cc
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-e8b4b428d13bdf04d8d7edf9b8f3b3cc
+    projectPath: Temp\UnityTempFile-e8b4b428d13bdf04d8d7edf9b8f3b3cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ebe4b967f09b272448c1e046c2e6e790
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ebe4b967f09b272448c1e046c2e6e790
+    projectPath: Temp\UnityTempFile-ebe4b967f09b272448c1e046c2e6e790
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ede665d7c02e56847acbecc146d9da8e
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ede665d7c02e56847acbecc146d9da8e
+    projectPath: Temp\UnityTempFile-ede665d7c02e56847acbecc146d9da8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ededc21b83574c04ba51b615d3e94bbd
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-ededc21b83574c04ba51b615d3e94bbd
+    projectPath: Temp\UnityTempFile-ededc21b83574c04ba51b615d3e94bbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-efc92d0852bf59e4eb21d398e957cd08
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-efc92d0852bf59e4eb21d398e957cd08
+    projectPath: Temp\UnityTempFile-efc92d0852bf59e4eb21d398e957cd08
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f4ed8e46a9bab444eba28b8b28350481
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f4ed8e46a9bab444eba28b8b28350481
+    projectPath: Temp\UnityTempFile-f4ed8e46a9bab444eba28b8b28350481
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f5703730294419f438e8b34465d8fe22
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f5703730294419f438e8b34465d8fe22
+    projectPath: Temp\UnityTempFile-f5703730294419f438e8b34465d8fe22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f585d56c483e8124faacc1b308cb4ab7
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-f585d56c483e8124faacc1b308cb4ab7
+    projectPath: Temp\UnityTempFile-f585d56c483e8124faacc1b308cb4ab7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fa4620e262e568d49bff3cdd22f6614b
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-fa4620e262e568d49bff3cdd22f6614b
+    projectPath: Temp\UnityTempFile-fa4620e262e568d49bff3cdd22f6614b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fafb9857f6e97294cbc60a180eb9f42c
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-fafb9857f6e97294cbc60a180eb9f42c
+    projectPath: Temp\UnityTempFile-fafb9857f6e97294cbc60a180eb9f42c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-fbc08b24131e3cb4cb4d78f6836114f5
+    fullPath: C:\Users\procon\githubtest\Temp\UnityTempFile-fbc08b24131e3cb4cb4d78f6836114f5
+    projectPath: Temp\UnityTempFile-fbc08b24131e3cb4cb4d78f6836114f5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
