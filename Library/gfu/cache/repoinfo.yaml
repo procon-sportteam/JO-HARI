@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-09-08T14:53:26.633+09:00
-  initializedAtString: 2019-09-08T14:53:26.633+09:00
+  lastUpdatedAtString: 2019-09-11T16:01:27.509+09:00
+  initializedAtString: 2019-09-11T16:01:27.509+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/procon-sportteam/JO-HARI.git

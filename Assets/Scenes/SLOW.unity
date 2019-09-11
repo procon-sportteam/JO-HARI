@@ -338,7 +338,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fced54a9b564bde468a56b7eb7151437, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pos_filename: storage/A8F3-22D4/Android/data/com.procon.test/pos.txt
+  pos_filename: storage/A8F3-22D4/Android/data/com.procon.JOHARI/pos.txt
   debug_cube: 1
   start_frame: 0
   end_frame: 

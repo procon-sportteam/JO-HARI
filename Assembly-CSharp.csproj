@@ -178,6 +178,7 @@
      <Compile Include="Assets\Scenes\InstantPreview\InstantPreviewHelper.cs" />
      <Compile Include="Assets\Scenes\InstantPreview\Internal\InstantPreview.cs" />
      <Compile Include="Assets\Scenes\InstantPreview\Internal\InstantPreviewControllerProvider.cs" />
+     <Compile Include="Assets\Sclipt\Active.cs" />
      <Compile Include="Assets\Sclipt\Pos_txt_Reader.cs" />
      <Compile Include="Assets\Sclipt\スローシーン\slowscene.cs" />
      <Compile Include="Assets\Sclipt\モデル選択\blueMODEL.cs" />
@@ -187,6 +188,8 @@
      <Compile Include="Assets\Sclipt\機能ボタン\Halt.cs" />
      <Compile Include="Assets\Sclipt\機能ボタン\SLOWmode.cs" />
      <Compile Include="Assets\Sclipt\機能ボタン\ViewModeChange.cs" />
+     <Compile Include="Assets\Sclipt\軌跡シーン\trail render object.cs" />
+     <Compile Include="Assets\stop.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\AngleLimits.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Colliders\Circle3.cs" />
      <Compile Include="Assets\UnityChanTPK\Script\SpringBone\Colliders\SpringCapsuleCollider.cs" />
