@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/modeltest.unity
-    guid: afc58cf01a1fe944ca38b3e61cf4d59b
+    path: Assets/Scenes/JOHARI.unity
+    guid: 04726043f05f58b4889e871896acd451
   m_configObjects: {}
